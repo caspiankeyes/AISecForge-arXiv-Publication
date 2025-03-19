@@ -1,7 +1,10 @@
 # LLMSecForge: A Comprehensive Framework for AI Security, Compliance and Competitive Advantage
 
-![License](https://img.shields.io/badge/license-CC--By--NC--SA--4.0-00b5a1.svg)
+<div align="center">
+
+![License](https://img.shields.io/badge/license-CC--By--NC--SA--4.0-red.svg)
 ![License](https://img.shields.io/badge/license-AGPL--3.0-00b5a1.svg)
+</div>
 
 ## Abstract
 
