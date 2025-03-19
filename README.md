@@ -23,7 +23,7 @@ LLMSecForge has been meticulously structured to balance **regulatory alignment, 
 **ShareAlike Enforcement:** Any modifications, refinements, or enhancements must be redistributed under **CC BY-NC-SA 4.0**, preventing knowledge hoarding or restricted-access implementations.  
 
 #### **Strategic Intent & Industry Application**  
-As AI security becomes an existential priority for **frontier AI enterprises, regulatory bodies, and global cybersecurity coalitions**, LLMSecForge serves as a **foundation for collaborative threat modeling, vulnerability standardization, and governance-ready AI security architectures**. The **CC BY-NC-SA 4.0 license enforces ethical safeguards**, ensuring that adversarial security research remains an **open, evolving discipline** that is **immune to corporate centralization and misuse**.  
+As AI security becomes an existential priority for **frontier AI enterprises, regulatory bodies, and global cybersecurity coalitions**, LLMSecForge serves as a **foundation for collaborative threat modeling, vulnerability standardization, and governance-ready AI security architectures**. The **CC BY-NC-SA 4.0 license enforces ethical safeguards**, ensuring that adversarial security research remains an **open, evolving discipline** that is **immune to centralization and misuse**.  
 
 For full license details, visit: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 </div>
