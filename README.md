@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![License](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-red.svg)
-![License](https://img.shields.io/badge/license-AGPL--3.0-00b5a1.svg)
+![LICENSE](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-red.svg)
+![LICENSE](https://img.shields.io/badge/license-AGPL--3.0-00b5a1.svg)
 </div>
 
 ## Abstract
