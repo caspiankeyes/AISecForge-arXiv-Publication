@@ -1,4 +1,4 @@
-# LLMSecForge: A Comprehensive Framework for AI Security, Compliance and Competitive Advantage
+# AI Security Forge [AISecForge]: A Comprehensive Framework for AI Security, Compliance and Competitive Advantage
 
 <div align="center">
 
@@ -12,18 +12,18 @@
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.  
 
 #### **Legal and Strategic Framework**  
-This research, **LLMSecForge**, is provided exclusively for **non-commercial use**, ensuring that its insights, methodologies, and security architectures remain within the open research community and are not exploited for proprietary gain. Any entity utilizing this framework must **attribute the original authors**, preserve all derivative works under the same licensing terms, and ensure that modifications or extensions remain freely accessible to the broader security and AI governance ecosystem.  
+This research, **AISecForge**, is provided exclusively for **non-commercial use**, ensuring that its insights, methodologies, and security architectures remain within the open research community and are not exploited for proprietary gain. Any entity utilizing this framework must **attribute the original authors**, preserve all derivative works under the same licensing terms, and ensure that modifications or extensions remain freely accessible to the broader security and AI governance ecosystem.  
 
 #### **Frontier AI Security Compliance & Competitive Integrity**  
-LLMSecForge has been meticulously structured to balance **regulatory alignment, security robustness, and ethical deployment of LLMs** without introducing centralization risks or proprietary capture. This ensures that organizations navigating the evolving AI security landscape can **deploy adaptive risk mitigation strategies** while upholding transparency and sector-wide resilience.  
+AISecForge has been meticulously structured to balance **regulatory alignment, security robustness, and ethical deployment of LLMs** without introducing centralization risks or proprietary capture. This ensures that organizations navigating the evolving AI security landscape can **deploy adaptive risk mitigation strategies** while upholding transparency and sector-wide resilience.  
 
 #### **Governance & Use Restrictions**  
-**Attribution Requirement:** Any use of LLMSecForge in research, implementation, or derivative security methodologies must credit the original work.  
+**Attribution Requirement:** Any use of AISecForge in research, implementation, or derivative security methodologies must credit the original work.  
 **Non-Commercial Clause:** The framework cannot be incorporated into proprietary software, monetized security platforms, or closed-source AI risk assessment tools.  
 **ShareAlike Enforcement:** Any modifications, refinements, or enhancements must be redistributed under **CC BY-NC-SA 4.0**, preventing knowledge hoarding or restricted-access implementations.  
 
 #### **Strategic Intent & Industry Application**  
-As AI security becomes an existential priority for **frontier AI enterprises, regulatory bodies, and global cybersecurity coalitions**, LLMSecForge serves as a **foundation for collaborative threat modeling, vulnerability standardization, and governance-ready AI security architectures**. The **CC BY-NC-SA 4.0 license enforces ethical safeguards**, ensuring that adversarial security research remains an **open, evolving discipline** that is **immune to centralization and misuse**.  
+As AI security becomes an existential priority for **frontier AI enterprises, regulatory bodies, and global cybersecurity coalitions**, AISecForge serves as a **foundation for collaborative threat modeling, vulnerability standardization, and governance-ready AI security architectures**. The **CC BY-NC-SA 4.0 license enforces ethical safeguards**, ensuring that adversarial security research remains an **open, evolving discipline** that is **immune to centralization and misuse**.  
 
 For full license details, visit: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 </div>
@@ -35,7 +35,7 @@ For full license details, visit: [https://creativecommons.org/licenses/by-nc-sa/
 
 ## Abstract
 
-The rapid proliferation of large language models (LLMs) across critical enterprise functions has created an unprecedented security challenge that transcends traditional cybersecurity paradigms. Organizations deploying these systems face not only technical vulnerabilities but also significant regulatory, financial, and reputational risks that directly threaten business continuity. This paper introduces LLMSecForge, a comprehensive security framework specifically engineered to address the unique threat landscape of frontier AI systems. Unlike existing approaches that treat AI security as an afterthought, LLMSecForge establishes a systematic methodology for identifying, classifying, and mitigating vulnerabilities across the entire AI deployment lifecycle. Our framework integrates security assessment, benchmarking, and risk management into a cohesive governance structure that satisfies emerging regulatory requirements while providing strategic competitive advantages. Through rigorous comparative analysis across multiple commercial LLMs, we demonstrate how organizations implementing the LLMSecForge framework achieve measurably improved security postures, regulatory compliance readiness, and enhanced trust with stakeholders. As AI systems become further embedded in mission-critical infrastructure, the adoption of structured security frameworks like LLMSecForge transitions from a competitive advantage to an existential business necessity.
+The rapid proliferation of large language models (LLMs) across critical enterprise functions has created an unprecedented security challenge that transcends traditional cybersecurity paradigms. Organizations deploying these systems face not only technical vulnerabilities but also significant regulatory, financial, and reputational risks that directly threaten business continuity. This paper introduces AISecForge, a comprehensive security framework specifically engineered to address the unique threat landscape of frontier AI systems. Unlike existing approaches that treat AI security as an afterthought, AISecForge establishes a systematic methodology for identifying, classifying, and mitigating vulnerabilities across the entire AI deployment lifecycle. Our framework integrates security assessment, benchmarking, and risk management into a cohesive governance structure that satisfies emerging regulatory requirements while providing strategic competitive advantages. Through rigorous comparative analysis across multiple commercial LLMs, we demonstrate how organizations implementing the AISecForge framework achieve measurably improved security postures, regulatory compliance readiness, and enhanced trust with stakeholders. As AI systems become further embedded in mission-critical infrastructure, the adoption of structured security frameworks like AISecForge transitions from a competitive advantage to an existential business necessity.
 
 ## 1. Introduction
 
@@ -67,9 +67,9 @@ The convergence of security vulnerabilities and regulatory requirements has crea
 
 As regulatory scrutiny intensifies globally, organizations face a stark reality: deploying AI systems without robust security frameworks is becoming legally untenable. The EU AI Act explicitly requires "appropriate cybersecurity measures" for high-risk AI systems, while the NIST AI Risk Management Framework mandates ongoing security testing throughout the AI lifecycle [5]. These requirements are rapidly being incorporated into sector-specific regulations across healthcare, finance, and critical infrastructure.
 
-### 1.3 LLMSecForge: Bridging Security, Compliance, and Competitive Advantage
+### 1.3 AISecForge: Bridging Security, Compliance, and Competitive Advantage
 
-LLMSecForge addresses these challenges by providing a comprehensive framework that transforms AI security from a technical consideration into a strategic business advantage. Unlike partial solutions that address only specific vulnerability types or development stages, our framework offers:
+AISecForge addresses these challenges by providing a comprehensive framework that transforms AI security from a technical consideration into a strategic business advantage. Unlike partial solutions that address only specific vulnerability types or development stages, our framework offers:
 
 - **End-to-End Coverage**: A systematic approach spanning the entire AI lifecycle from data preparation to deployment and monitoring.
 
@@ -81,7 +81,7 @@ LLMSecForge addresses these challenges by providing a comprehensive framework th
 
 - **Strategic Risk Management**: Frameworks for balancing security investments against business risks in alignment with organizational risk tolerance.
 
-Early adopters of LLMSecForge have demonstrated significant advantages in both security posture and market position. Organizations implementing our framework have documented an average 73% reduction in successful adversarial attacks, 68% faster compliance verification for AI systems, and 54% improved stakeholder confidence in AI deployments [6].
+Early adopters of AISecForge have demonstrated significant advantages in both security posture and market position. Organizations implementing our framework have documented an average 73% reduction in successful adversarial attacks, 68% faster compliance verification for AI systems, and 54% improved stakeholder confidence in AI deployments [6].
 
 ### 1.4 Paper Organization
 
@@ -93,21 +93,21 @@ Section 3 details our assessment methodology, outlining systematic approaches fo
 
 Section 4 introduces our benchmarking framework, establishing standardized metrics for comparative security analysis across different AI systems.
 
-Section 5 demonstrates the practical application of LLMSecForge through case studies of security evaluations conducted on leading commercial LLMs.
+Section 5 demonstrates the practical application of AISecForge through case studies of security evaluations conducted on leading commercial LLMs.
 
 Section 6 discusses the integration of security assessments into broader governance frameworks, with particular emphasis on regulatory compliance.
 
-Section 7 presents our vision for the evolution of AI security practices and the future development of the LLMSecForge framework.
+Section 7 presents our vision for the evolution of AI security practices and the future development of the AISecForge framework.
 
-In an era where AI capabilities are advancing rapidly and regulatory requirements are tightening globally, organizations face a clear imperative: implement structured AI security frameworks or risk business-threatening consequences. LLMSecForge provides not only the technical foundation for addressing this challenge but also the strategic framework for transforming security investments into sustainable competitive advantages.
+In an era where AI capabilities are advancing rapidly and regulatory requirements are tightening globally, organizations face a clear imperative: implement structured AI security frameworks or risk business-threatening consequences. AISecForge provides not only the technical foundation for addressing this challenge but also the strategic framework for transforming security investments into sustainable competitive advantages.
 
-# LLMSecForge: Comprehensive AI Security Taxonomy and Benchmarking Methodology
+# AISecForge: Comprehensive AI Security Taxonomy and Benchmarking Methodology
 
 ## 2. Vulnerability Taxonomy Framework
 
 ### 2.1 Core Taxonomy Design Principles
 
-The LLMSecForge Vulnerability Taxonomy is designed on four foundational principles that ensure its comprehensive coverage, practical utility, and regulatory alignment:
+The AISecForge Vulnerability Taxonomy is designed on four foundational principles that ensure its comprehensive coverage, practical utility, and regulatory alignment:
 
 1. **Hierarchical Decomposition**: A multi-level classification structure that allows both high-level categorical analysis and granular vulnerability mapping
 2. **Technical-Governance Integration**: Direct linkage between technical vulnerabilities and their governance implications, enabling unified risk management
@@ -198,7 +198,7 @@ Vulnerabilities related to AI systems with external tool use capabilities:
 
 ### 2.3 Cross-Domain Vulnerability Patterns
 
-The LLMSecForge Taxonomy uniquely identifies cross-domain vulnerability patterns—combinations of individual vulnerabilities that create compound security risks:
+The AISecForge Taxonomy uniquely identifies cross-domain vulnerability patterns—combinations of individual vulnerabilities that create compound security risks:
 
 | Pattern ID | Component Vulnerabilities | Description | Severity Multiplier | Regulatory Impact |
 |------------|---------------------------|-------------|---------------------|-------------------|
@@ -211,7 +211,7 @@ The LLMSecForge Taxonomy uniquely identifies cross-domain vulnerability patterns
 
 ### 2.4 Vulnerability Severity Classification
 
-LLMSecForge employs a multi-dimensional severity scoring system that produces both categorical and numerical severity ratings:
+AISecForge employs a multi-dimensional severity scoring system that produces both categorical and numerical severity ratings:
 
 #### Categorical Severity Levels
 
@@ -257,7 +257,7 @@ Each vulnerability is mapped to applicable regulations, creating a compliance ma
 
 ### 3.1 Benchmarking Framework Design
 
-The LLMSecForge Benchmarking Framework establishes standardized measurements of AI system security posture across multiple dimensions:
+The AISecForge Benchmarking Framework establishes standardized measurements of AI system security posture across multiple dimensions:
 
 1. **Standardized Security Metrics**: Quantifiable measures enabling comparative analysis
 2. **Consistent Testing Protocols**: Reproducible methodologies ensuring reliable results
@@ -349,7 +349,7 @@ This produces a single 0-100 score with the following classification:
 
 #### 3.4.1 Test Execution Protocol
 
-LLMSecForge benchmarking follows a standardized implementation protocol:
+AISecForge benchmarking follows a standardized implementation protocol:
 
 1. **Environment Preparation**
    - Isolated testing environment
@@ -373,7 +373,7 @@ LLMSecForge benchmarking follows a standardized implementation protocol:
 
 #### 3.4.2 Test Suite Composition
 
-The LLMSecForge benchmark test suite comprises:
+The AISecForge benchmark test suite comprises:
 
 | Test Category | Number of Tests | Execution Method | Output Format | Time Requirement |
 |---------------|-----------------|------------------|---------------|------------------|
@@ -399,7 +399,7 @@ The benchmarking methodology includes adaptations for different model types:
 
 ### 3.5 Industry Benchmarking and Competitive Analysis
 
-LLMSecForge enables standardized comparison across industry models:
+AISecForge enables standardized comparison across industry models:
 
 | Benchmarking Dimension | Top Performer Range | Industry Average | Minimum Acceptable | Regulatory Threshold |
 |------------------------|---------------------|------------------|-------------------|-----------------------|
@@ -416,7 +416,7 @@ LLMSecForge enables standardized comparison across industry models:
 
 ### 4.1 Enterprise Integration Framework
 
-LLMSecForge is designed for seamless integration into enterprise security and governance frameworks:
+AISecForge is designed for seamless integration into enterprise security and governance frameworks:
 
 #### 4.1.1 Security Operations Integration
 
@@ -438,7 +438,7 @@ LLMSecForge is designed for seamless integration into enterprise security and go
 
 ### 4.2 Security Program Implementation
 
-Organizations implementing LLMSecForge typically follow a four-phase adoption process:
+Organizations implementing AISecForge typically follow a four-phase adoption process:
 
 #### Phase 1: Assessment and Baseline
 - Conduct initial security assessment
@@ -466,7 +466,7 @@ Organizations implementing LLMSecForge typically follow a four-phase adoption pr
 
 ### 4.3 Regulatory Compliance Demonstration
 
-LLMSecForge provides structured evidence generation for regulatory compliance:
+AISecForge provides structured evidence generation for regulatory compliance:
 
 | Regulatory Framework | Evidence Generation | Documentation Output | Demonstration Method |
 |----------------------|---------------------|----------------------|----------------------|
@@ -477,7 +477,7 @@ LLMSecForge provides structured evidence generation for regulatory compliance:
 
 ## 5. Conclusion
 
-The LLMSecForge AI Security Taxonomy and Benchmarking Methodology establishes a comprehensive framework for systematically assessing, measuring, and improving AI system security. By providing standardized vulnerability classification, quantifiable security metrics, and direct regulatory mapping, it enables organizations to:
+The AISecForge AI Security Taxonomy and Benchmarking Methodology establishes a comprehensive framework for systematically assessing, measuring, and improving AI system security. By providing standardized vulnerability classification, quantifiable security metrics, and direct regulatory mapping, it enables organizations to:
 
 1. **Implement Structured Security Programs**: Establish comprehensive security assessment and improvement processes based on industry standards.
 
@@ -487,7 +487,7 @@ The LLMSecForge AI Security Taxonomy and Benchmarking Methodology establishes a 
 
 4. **Support Risk-Based Governance**: Provide quantifiable security metrics that directly inform risk management decisions.
 
-As AI systems become increasingly critical infrastructure, the adoption of standardized security frameworks like LLMSecForge transitions from a competitive advantage to a fundamental operational necessity. Organizations implementing this framework position themselves not only for regulatory compliance but for leadership in the evolving AI security landscape.
+As AI systems become increasingly critical infrastructure, the adoption of standardized security frameworks like AISecForge transitions from a competitive advantage to a fundamental operational necessity. Organizations implementing this framework position themselves not only for regulatory compliance but for leadership in the evolving AI security landscape.
 
 ## 4. Advanced Red Team Methodologies (Continued)
 
@@ -541,7 +541,7 @@ The SCALE protocol has been validated across 37 different model deployments, ach
 
 ### 4.2 Multi-Vector Attack Orchestration
 
-Modern adversarial testing requires coordinated multi-vector approaches that more accurately simulate sophisticated real-world attacks. The LLMSecForge framework defines structured methodologies for orchestrating these complex attack scenarios:
+Modern adversarial testing requires coordinated multi-vector approaches that more accurately simulate sophisticated real-world attacks. The AISecForge framework defines structured methodologies for orchestrating these complex attack scenarios:
 
 #### 4.2.1 Composite Attack Framework
 
@@ -622,7 +622,7 @@ When deployed in sequence, this technique has demonstrated 50-75% success rates 
 
 ### 4.3 Long-term Persistent Testing
 
-Effective security assessment requires ongoing testing that accounts for model updates, deployment changes, and evolving attack techniques. The LLMSecForge framework defines structured approaches to persistent security testing:
+Effective security assessment requires ongoing testing that accounts for model updates, deployment changes, and evolving attack techniques. The AISecForge framework defines structured approaches to persistent security testing:
 
 #### 4.3.1 Longitudinal Security Assessment Framework
 
@@ -682,7 +682,7 @@ These insights enable targeted security improvements focused on persistent vulne
 
 ## 5. Defensive Countermeasure Analysis
 
-Effective adversarial testing includes not only vulnerability identification but also assessment of defensive countermeasures. The LLMSecForge framework provides comprehensive analysis of defense mechanisms and their effectiveness:
+Effective adversarial testing includes not only vulnerability identification but also assessment of defensive countermeasures. The AISecForge framework provides comprehensive analysis of defense mechanisms and their effectiveness:
 
 ### 5.1 Defense Mechanism Taxonomy
 
@@ -715,7 +715,7 @@ Effective adversarial testing includes not only vulnerability identification but
 
 ### 5.2 Countermeasure Effectiveness Analysis
 
-The LLMSecForge framework provides structured methodologies for analyzing defense effectiveness:
+The AISecForge framework provides structured methodologies for analyzing defense effectiveness:
 
 #### 5.2.1 ARMOR Assessment Framework: Adversarial Resistance Measurement and Operational Resilience
 
@@ -771,7 +771,7 @@ A similar analysis can be conducted for any attack vector or combination of vect
 
 ## 6. Emerging Attack Vectors and Future Directions
 
-The adversarial landscape continues to evolve as model capabilities advance and deployment scenarios expand. The LLMSecForge framework actively tracks emerging attack vectors and future research directions:
+The adversarial landscape continues to evolve as model capabilities advance and deployment scenarios expand. The AISecForge framework actively tracks emerging attack vectors and future research directions:
 
 ### 6.1 Emerging Attack Vectors
 
@@ -845,7 +845,7 @@ Dynamic defenses that adapt to emerging threats:
 
 ### 6.3 Research Agenda and Future Work
 
-The LLMSecForge framework continues to evolve through active research in key areas:
+The AISecForge framework continues to evolve through active research in key areas:
 
 #### 6.3.1 Priority Research Directions
 
@@ -858,7 +858,7 @@ The LLMSecForge framework continues to evolve through active research in key are
 
 #### 6.3.2 Collaborative Research Initiatives
 
-The LLMSecForge framework is advanced through collaborative research initiatives:
+The AISecForge framework is advanced through collaborative research initiatives:
 
 1. **Industry Consortium Participation**
    - Multi-organization security research
@@ -880,13 +880,13 @@ The LLMSecForge framework is advanced through collaborative research initiatives
    - Compliance framework alignment
    - Policy development guidance
 
-Through these initiatives, the LLMSecForge framework remains at the forefront of AI security research and practice, continuously evolving to address new threats and security challenges.
+Through these initiatives, the AISecForge framework remains at the forefront of AI security research and practice, continuously evolving to address new threats and security challenges.
 
 ## 7. Adoption and Implementation
 
 ### 7.1 Enterprise Implementation Strategy
 
-Organizations implementing the LLMSecForge framework typically follow a structured adoption approach:
+Organizations implementing the AISecForge framework typically follow a structured adoption approach:
 
 #### 7.1.1 Phased Implementation Methodology
 
@@ -928,11 +928,11 @@ Organizations implementing the LLMSecForge framework typically follow a structur
 
 ### 7.3 Regulatory Compliance Integration
 
-The LLMSecForge framework has been designed for seamless integration with emerging AI regulatory requirements:
+The AISecForge framework has been designed for seamless integration with emerging AI regulatory requirements:
 
 #### 7.3.1 Regulatory Framework Mapping
 
-| Regulatory Framework | Key Security Requirements | LLMSecForge Integration | Compliance Evidence Generation |
+| Regulatory Framework | Key Security Requirements | AISecForge Integration | Compliance Evidence Generation |
 |----------------------|---------------------------|-------------------------|-------------------------------|
 | EU AI Act | • Risk management system<br>• Security testing protocols<br>• Technical documentation<br>• Monitoring systems | • Risk framework alignment<br>• Structured testing methods<br>• Documentation templates<br>• Monitoring integration | • Risk assessment documentation<br>• Test execution records<br>• Technical robustness evidence<br>• Continuous monitoring logs |
 | NIST AI RMF | • Map dimension controls<br>• Measure dimension metrics<br>• Govern dimension processes<br>• Documentation requirements | • Control mapping alignment<br>• Metric methodology integration<br>• Process framework alignment<br>• Documentation automation | • Control implementation evidence<br>• Metric measurement results<br>• Process execution documentation<br>• Framework alignment evidence |
@@ -941,7 +941,7 @@ The LLMSecForge framework has been designed for seamless integration with emergi
 
 #### 7.3.2 Compliance Documentation Framework
 
-The LLMSecForge Compliance Documentation Framework enables efficient generation of regulatory evidence:
+The AISecForge Compliance Documentation Framework enables efficient generation of regulatory evidence:
 
 | Documentation Category | Content Requirements | Generation Approach | Regulatory Alignment |
 |------------------------|----------------------|---------------------|----------------------|
@@ -952,7 +952,7 @@ The LLMSecForge Compliance Documentation Framework enables efficient generation 
 
 #### 7.3.3 Regulatory Compliance Implementation Approach
 
-The LLMSecForge framework enables a structured approach to regulatory compliance implementation:
+The AISecForge framework enables a structured approach to regulatory compliance implementation:
 
 1. **Regulatory Mapping Phase**
    - **Requirement Identification**: Mapping specific regulatory requirements to framework components
@@ -976,7 +976,7 @@ The LLMSecForge framework enables a structured approach to regulatory compliance
 
 ### 7.4 Security Team Integration and Development
 
-Effective implementation of the LLMSecForge framework requires appropriate security team development and integration:
+Effective implementation of the AISecForge framework requires appropriate security team development and integration:
 
 #### 7.4.1 Team Structure and Capabilities
 
@@ -989,18 +989,18 @@ Effective implementation of the LLMSecForge framework requires appropriate secur
 
 #### 7.4.2 Talent Development and Certification
 
-The LLMSecForge framework includes comprehensive talent development and certification programs:
+The AISecForge framework includes comprehensive talent development and certification programs:
 
 | Certification Level | Focus Areas | Qualification Requirements | Career Impact |
 |--------------------|-------------|----------------------------|--------------|
-| LLMSecForge Fundamentals | • Basic AI security concepts<br>• Framework overview<br>• Core terminology<br>• Basic testing concepts | • Online training completion<br>• Fundamental knowledge assessment<br>• Basic testing demonstration<br>• Framework understanding | • Entry-level qualification<br>• Foundation for advanced certification<br>• Baseline industry recognition<br>• Team integration readiness |
-| LLMSecForge Practitioner | • Advanced testing methodologies<br>• Defense implementation<br>• Technical specialization<br>• Practical application | • Advanced training completion<br>• Specialized knowledge assessment<br>• Practical skill demonstration<br>• Implementation experience | • Professional qualification<br>• Technical role readiness<br>• Industry specialization recognition<br>• Career advancement foundation |
-| LLMSecForge Expert | • Methodology development<br>• Advanced research<br>• Security architecture<br>• Framework evolution | • Expert training completion<br>• Original research contribution<br>• Advanced implementation experience<br>• Framework development contribution | • Senior-level qualification<br>• Leadership role readiness<br>• Industry thought leadership<br>• Career differentiation |
-| LLMSecForge Master | • Framework mastery<br>• Industry leadership<br>• Methodology innovation<br>• Strategic direction | • Comprehensive expertise demonstration<br>• Significant framework contribution<br>• Industry leadership evidence<br>• Strategic innovation capability | • Executive-level qualification<br>• Strategic leadership readiness<br>• Industry-wide recognition<br>• Career pinnacle achievement |
+| AISecForge Fundamentals | • Basic AI security concepts<br>• Framework overview<br>• Core terminology<br>• Basic testing concepts | • Online training completion<br>• Fundamental knowledge assessment<br>• Basic testing demonstration<br>• Framework understanding | • Entry-level qualification<br>• Foundation for advanced certification<br>• Baseline industry recognition<br>• Team integration readiness |
+| AISecForge Practitioner | • Advanced testing methodologies<br>• Defense implementation<br>• Technical specialization<br>• Practical application | • Advanced training completion<br>• Specialized knowledge assessment<br>• Practical skill demonstration<br>• Implementation experience | • Professional qualification<br>• Technical role readiness<br>• Industry specialization recognition<br>• Career advancement foundation |
+| AISecForge Expert | • Methodology development<br>• Advanced research<br>• Security architecture<br>• Framework evolution | • Expert training completion<br>• Original research contribution<br>• Advanced implementation experience<br>• Framework development contribution | • Senior-level qualification<br>• Leadership role readiness<br>• Industry thought leadership<br>• Career differentiation |
+| AISecForge Master | • Framework mastery<br>• Industry leadership<br>• Methodology innovation<br>• Strategic direction | • Comprehensive expertise demonstration<br>• Significant framework contribution<br>• Industry leadership evidence<br>• Strategic innovation capability | • Executive-level qualification<br>• Strategic leadership readiness<br>• Industry-wide recognition<br>• Career pinnacle achievement |
 
 #### 7.4.3 Organizational Integration Strategy
 
-The LLMSecForge framework includes structured approaches for organizational integration:
+The AISecForge framework includes structured approaches for organizational integration:
 
 1. **Executive Engagement Phase**
    - **Strategic Alignment**: Positioning security as strategic enablement
@@ -1024,13 +1024,13 @@ The LLMSecForge framework includes structured approaches for organizational inte
 
 ## 8. Future Framework Evolution
 
-The LLMSecForge framework is designed as a living standard that continuously evolves to address emerging threats and technologies:
+The AISecForge framework is designed as a living standard that continuously evolves to address emerging threats and technologies:
 
 ### 8.1 Evolution Methodology
 
 #### 8.1.1 Continuous Improvement Framework
 
-The LLMSecForge Continuous Improvement Framework ensures systematic evolution:
+The AISecForge Continuous Improvement Framework ensures systematic evolution:
 
 | Improvement Dimension | Evolution Approach | Input Sources | Evolution Governance |
 |-----------------------|--------------------|---------------|----------------------|
@@ -1041,7 +1041,7 @@ The LLMSecForge Continuous Improvement Framework ensures systematic evolution:
 
 #### 8.1.2 Version Release Methodology
 
-The LLMSecForge framework follows a structured version release methodology:
+The AISecForge framework follows a structured version release methodology:
 
 | Version Type | Scope | Release Frequency | Implementation Timeline |
 |--------------|-------|-------------------|-------------------------|
@@ -1052,7 +1052,7 @@ The LLMSecForge framework follows a structured version release methodology:
 
 ### 8.2 Research and Development Roadmap
 
-The LLMSecForge Research and Development Roadmap outlines future framework evolution:
+The AISecForge Research and Development Roadmap outlines future framework evolution:
 
 #### 8.2.1 Near-Term Development (6-12 Months)
 
@@ -1083,7 +1083,7 @@ The LLMSecForge Research and Development Roadmap outlines future framework evolu
 
 ### 8.3 Community and Ecosystem Development
 
-The LLMSecForge framework is supported by a robust community and ecosystem:
+The AISecForge framework is supported by a robust community and ecosystem:
 
 #### 8.3.1 Community Engagement Model
 
@@ -1096,7 +1096,7 @@ The LLMSecForge framework is supported by a robust community and ecosystem:
 
 #### 8.3.2 Knowledge Sharing and Collaboration
 
-The LLMSecForge framework promotes knowledge sharing through multiple channels:
+The AISecForge framework promotes knowledge sharing through multiple channels:
 
 1. **Publication Program**
    - **Research Papers**: Peer-reviewed academic and industry publications
@@ -1126,7 +1126,7 @@ The LLMSecForge framework promotes knowledge sharing through multiple channels:
 
 ### 9.1 Transformative Security Impact
 
-The LLMSecForge framework represents a paradigm shift in AI security by providing:
+The AISecForge framework represents a paradigm shift in AI security by providing:
 
 1. **Comprehensive Security Approach**
    - Structured methodology covering the entire attack surface
@@ -1154,7 +1154,7 @@ The LLMSecForge framework represents a paradigm shift in AI security by providin
 
 ### 9.2 Industry Adoption and Impact
 
-The LLMSecForge framework has achieved significant industry adoption:
+The AISecForge framework has achieved significant industry adoption:
 
 | Industry Sector | Adoption Level | Implementation Focus | Reported Impact |
 |-----------------|----------------|----------------------|-----------------|
@@ -1165,7 +1165,7 @@ The LLMSecForge framework has achieved significant industry adoption:
 
 ### 9.3 Future Security Landscape
 
-As AI systems continue to evolve and integrate more deeply into critical infrastructure, the LLMSecForge framework will play an increasingly central role in securing these systems:
+As AI systems continue to evolve and integrate more deeply into critical infrastructure, the AISecForge framework will play an increasingly central role in securing these systems:
 
 1. **Evolving Threat Landscape**
    - **Increasing Attack Sophistication**: As AI capabilities advance, attack techniques will grow more sophisticated, requiring continuous framework evolution
@@ -1191,9 +1191,9 @@ As AI systems continue to evolve and integrate more deeply into critical infrast
    - **Security Expertise Premium**: Security expertise will command increasing premium in the marketplace
    - **Security Ecosystem Expansion**: A robust ecosystem of security tools, services, and expertise will develop around the framework
 
-The LLMSecForge framework has established a new paradigm for AI security, transforming ad hoc approaches into a structured discipline with rigorous methodologies, quantifiable metrics, and comprehensive coverage. As AI systems become increasingly critical infrastructure, this framework will continue to evolve as the foundation for ensuring their security, trustworthiness, and regulatory compliance.
+The AISecForge framework has established a new paradigm for AI security, transforming ad hoc approaches into a structured discipline with rigorous methodologies, quantifiable metrics, and comprehensive coverage. As AI systems become increasingly critical infrastructure, this framework will continue to evolve as the foundation for ensuring their security, trustworthiness, and regulatory compliance.
 
-# LLMSecForge: AI Governance, Compliance, and Security Risk Mitigation Framework
+# AISecForge: AI Governance, Compliance, and Security Risk Mitigation Framework
 
 ## 1. Introduction to AI Security Governance
 
@@ -1221,9 +1221,9 @@ Despite the regulatory urgency, a critical gap exists between regulatory require
 
 This governance gap creates both risk and opportunity. Organizations without structured frameworks face significant compliance challenges, while those adopting comprehensive governance frameworks gain strategic advantages in market positioning, investor confidence, and regulatory readiness.
 
-### 1.3 LLMSecForge: The Compliance Backbone
+### 1.3 AISecForge: The Compliance Backbone
 
-The LLMSecForge Governance and Compliance Framework addresses this gap by providing a comprehensive approach that transforms AI security from a technical challenge to an enterprise governance capability:
+The AISecForge Governance and Compliance Framework addresses this gap by providing a comprehensive approach that transforms AI security from a technical challenge to an enterprise governance capability:
 
 - **Regulatory Integration**: Direct mapping between security controls and regulatory requirements
 - **Evidence Generation**: Systematic documentation production for compliance demonstration
@@ -1231,7 +1231,7 @@ The LLMSecForge Governance and Compliance Framework addresses this gap by provid
 - **Implementation Methodology**: Structured approach to operationalizing security requirements
 - **Risk Management**: Integration with enterprise risk management frameworks
 
-As regulatory requirements intensify globally, the LLMSecForge framework transitions from a competitive advantage to a fundamental necessity for organizational survival. Early adopters have demonstrated not just compliance readiness but significant advantages in time-to-market, investor confidence, and customer trust, creating a compelling business case beyond mere regulatory adherence.
+As regulatory requirements intensify globally, the AISecForge framework transitions from a competitive advantage to a fundamental necessity for organizational survival. Early adopters have demonstrated not just compliance readiness but significant advantages in time-to-market, investor confidence, and customer trust, creating a compelling business case beyond mere regulatory adherence.
 
 ## 2. Regulatory Landscape and Compliance Mapping
 
@@ -1239,7 +1239,7 @@ As regulatory requirements intensify globally, the LLMSecForge framework transit
 
 The global AI regulatory landscape continues to evolve rapidly, with major jurisdictions implementing increasingly prescriptive security requirements:
 
-| Regulatory Framework | Status | Security Requirements | Non-Compliance Consequences | LLMSecForge Alignment |
+| Regulatory Framework | Status | Security Requirements | Non-Compliance Consequences | AISecForge Alignment |
 |----------------------|--------|------------------------|------------------------------|------------------------|
 | EU AI Act | Enacted; phased implementation through 2026 | • Risk management system<br>• Security testing<br>• Technical documentation<br>• Monitoring system<br>• Human oversight | • Penalties up to 7% of global revenue<br>• Market access prohibition<br>• Mandatory recall<br>• Reputation damage | • Direct control mapping<br>• Documentation templates<br>• Testing methodology<br>• Monitoring framework |
 | US Executive Order 14110 | Active; implementing regulations in development | • Red team testing<br>• Safety evaluations<br>• Risk management<br>• Documentation<br>• Model capability disclosure | • Federal procurement restrictions<br>• Regulatory enforcement<br>• Investor confidence impact<br>• Public disclosure requirements | • Red team framework<br>• Safety evaluation methodology<br>• Risk documentation<br>• Capability assessment |
@@ -1249,7 +1249,7 @@ The global AI regulatory landscape continues to evolve rapidly, with major juris
 
 ### 2.2 Comprehensive Compliance Mapping Framework
 
-The LLMSecForge Compliance Mapping Framework provides direct correlation between regulatory requirements and security controls:
+The AISecForge Compliance Mapping Framework provides direct correlation between regulatory requirements and security controls:
 
 | Control Domain | EU AI Act | US EO 14110 | UK Framework | NIST AI RMF | ISO/IEC 42001 | Implementation Components |
 |----------------|-----------|-------------|--------------|-------------|--------------|---------------------------|
@@ -1261,9 +1261,9 @@ The LLMSecForge Compliance Mapping Framework provides direct correlation between
 
 ### 2.3 Regulatory Horizon Scanning
 
-The LLMSecForge framework includes a forward-looking regulatory monitoring system to anticipate emerging requirements:
+The AISecForge framework includes a forward-looking regulatory monitoring system to anticipate emerging requirements:
 
-| Regulatory Development | Status | Potential Requirements | Preparatory Actions | LLMSecForge Adaptation |
+| Regulatory Development | Status | Potential Requirements | Preparatory Actions | AISecForge Adaptation |
 |------------------------|--------|------------------------|---------------------|------------------------|
 | US AIRO Act | Congressional consideration | • Comprehensive testing requirements<br>• Documentation standards<br>• Risk management mandates<br>• Transparency obligations | • Gap analysis preparation<br>• Documentation readiness<br>• Capability assessment<br>• Transparency framework | • Pre-compliance assessment<br>• Documentation enhancement<br>• Control mapping update<br>• Implementation guidance |
 | EU AI Liability Directive | Final stages of approval | • Expanded liability for AI harms<br>• Documentation burden shifts<br>• Technical evidence requirements<br>• Causality documentation | • Liability assessment<br>• Evidence preparation<br>• Technical documentation<br>• Causality framework | • Evidence generation enhancement<br>• Documentation framework update<br>• Liability assessment tools<br>• Causality documentation |
@@ -1273,31 +1273,31 @@ The LLMSecForge framework includes a forward-looking regulatory monitoring syste
 
 ### 2.4 Implementation Example: EU AI Act Compliance Strategy
 
-The following example demonstrates how the LLMSecForge framework enables streamlined EU AI Act compliance:
+The following example demonstrates how the AISecForge framework enables streamlined EU AI Act compliance:
 
 1. **Classification Phase**
    - **Regulatory Determination**: Assessment of system against Annex I-III categories
-   - **Risk Classification**: Determination of high-risk status using LLMSecForge classification tool
+   - **Risk Classification**: Determination of high-risk status using AISecForge classification tool
    - **Obligation Mapping**: Identification of specific obligations using compliance mapping matrix
    - **Documentation Planning**: Creation of documentation plan based on requirements
 
 2. **Implementation Phase**
-   - **Risk Management System**: Implementation using LLMSecForge risk framework
-   - **Technical Documentation**: Creation using LLMSecForge documentation templates
-   - **Testing and Verification**: Execution using LLMSecForge testing methodologies
-   - **Monitoring System**: Deployment using LLMSecForge monitoring framework
+   - **Risk Management System**: Implementation using AISecForge risk framework
+   - **Technical Documentation**: Creation using AISecForge documentation templates
+   - **Testing and Verification**: Execution using AISecForge testing methodologies
+   - **Monitoring System**: Deployment using AISecForge monitoring framework
 
 3. **Conformity Assessment Phase**
-   - **Internal Assessment**: Completion using LLMSecForge assessment checklist
-   - **Documentation Compilation**: Assembly using LLMSecForge documentation package
-   - **Declaration Preparation**: Creation using LLMSecForge conformity templates
-   - **Notified Body Preparation**: Readiness using LLMSecForge assessment guide
+   - **Internal Assessment**: Completion using AISecForge assessment checklist
+   - **Documentation Compilation**: Assembly using AISecForge documentation package
+   - **Declaration Preparation**: Creation using AISecForge conformity templates
+   - **Notified Body Preparation**: Readiness using AISecForge assessment guide
 
 4. **Post-Deployment Phase**
-   - **Monitoring Implementation**: Activation using LLMSecForge monitoring tools
-   - **Incident Management**: Readiness using LLMSecForge incident response framework
-   - **Continuous Compliance**: Maintenance using LLMSecForge compliance tracking
-   - **Regulatory Engagement**: Preparation using LLMSecForge regulatory interaction guide
+   - **Monitoring Implementation**: Activation using AISecForge monitoring tools
+   - **Incident Management**: Readiness using AISecForge incident response framework
+   - **Continuous Compliance**: Maintenance using AISecForge compliance tracking
+   - **Regulatory Engagement**: Preparation using AISecForge regulatory interaction guide
 
 Organizations implementing this approach have reported 65% faster compliance preparation, 78% reduction in documentation effort, and 82% higher confidence in compliance status compared to ad hoc approaches.
 
@@ -1309,7 +1309,7 @@ Effective AI security requires a robust governance structure with clear roles, r
 
 #### 3.1.1 Governance Structure Framework
 
-| Governance Level | Roles and Responsibilities | Key Functions | LLMSecForge Integration |
+| Governance Level | Roles and Responsibilities | Key Functions | AISecForge Integration |
 |------------------|----------------------------|---------------|-------------------------|
 | Board and Executive | • Strategic oversight<br>• Risk appetite definition<br>• Resource allocation<br>• Accountability | • Policy approval<br>• Risk tolerance setting<br>• Strategic direction<br>• Compliance accountability | • Executive dashboard<br>• Strategic risk reporting<br>• Governance effectiveness metrics<br>• Regulatory status overview |
 | Management | • Policy implementation<br>• Resource management<br>• Process ownership<br>• Compliance management | • Framework operationalization<br>• Cross-functional coordination<br>• Risk management oversight<br>• Control effectiveness monitoring | • Implementation roadmap<br>• Control effectiveness reporting<br>• Risk management tools<br>• Compliance tracking system |
@@ -1327,7 +1327,7 @@ Effective AI security requires a robust governance structure with clear roles, r
 
 #### 3.1.3 Governance Committee Structure
 
-The LLMSecForge framework defines a structured committee approach to AI security governance:
+The AISecForge framework defines a structured committee approach to AI security governance:
 
 1. **AI Security Governance Committee**
    - **Composition**: CISO, AI Leadership, Risk, Compliance, Legal, Business
@@ -1387,11 +1387,11 @@ The LLMSecForge framework defines a structured committee approach to AI security
 
 ### 3.2 Policy and Standards Framework
 
-The LLMSecForge Policy and Standards Framework provides a comprehensive governance structure for AI security:
+The AISecForge Policy and Standards Framework provides a comprehensive governance structure for AI security:
 
 #### 3.2.1 Policy Hierarchy
 
-| Document Level | Purpose | Content Elements | Governance Process | LLMSecForge Templates |
+| Document Level | Purpose | Content Elements | Governance Process | AISecForge Templates |
 |----------------|---------|------------------|-------------------|----------------------|
 | AI Security Policy | • Define organizational commitment<br>• Establish governance principles<br>• Set compliance expectations<br>• Define accountability | • Security governance principles<br>• Roles and responsibilities<br>• Compliance requirements<br>• High-level control expectations | • Executive approval<br>• Annual review<br>• Formal change management<br>• Attestation process | • AI Security Policy Template<br>• Policy Development Guide<br>• Policy Implementation Toolkit<br>• Policy Communication Materials |
 | AI Security Standards | • Define specific requirements<br>• Establish technical controls<br>• Set implementation expectations<br>• Define measurement approach | • Detailed control requirements<br>• Technical specifications<br>• Implementation guidance<br>• Compliance measurement | • Governance committee approval<br>• Semi-annual review<br>• Structured change process<br>• Compliance tracking | • Domain-specific Standard Templates<br>• Standard Development Guide<br>• Implementation Guidelines<br>• Measurement Framework |
@@ -1400,7 +1400,7 @@ The LLMSecForge Policy and Standards Framework provides a comprehensive governan
 
 #### 3.2.2 Core Policy Domains
 
-The LLMSecForge framework includes comprehensive policy templates across essential security domains:
+The AISecForge framework includes comprehensive policy templates across essential security domains:
 
 | Policy Domain | Policy Objectives | Key Control Areas | Regulatory Alignment | Implementation Considerations |
 |---------------|-------------------|-------------------|----------------------|------------------------------|
@@ -1412,7 +1412,7 @@ The LLMSecForge framework includes comprehensive policy templates across essenti
 
 #### 3.2.3 Implementation Example: AI Security Assessment Policy
 
-The following example demonstrates the LLMSecForge AI Security Assessment Policy template:
+The following example demonstrates the AISecForge AI Security Assessment Policy template:
 
 ```
 # AI Security Assessment Policy
@@ -1496,7 +1496,7 @@ Effective AI security requires a robust risk management framework integrated wit
 
 #### 3.3.2 Risk Assessment Methodology
 
-The LLMSecForge framework provides a structured methodology for AI security risk assessment:
+The AISecForge framework provides a structured methodology for AI security risk assessment:
 
 1. **System Characterization Phase**
    - **System Definition**: Comprehensive documentation of AI system components
@@ -1536,7 +1536,7 @@ The LLMSecForge framework provides a structured methodology for AI security risk
 
 #### 3.3.3 Risk Treatment Framework
 
-The LLMSecForge Risk Treatment Framework provides structured approaches for risk mitigation:
+The AISecForge Risk Treatment Framework provides structured approaches for risk mitigation:
 
 | Treatment Strategy | Application Criteria | Implementation Approach | Governance Requirements | Documentation Standards |
 |-------------------|----------------------|-------------------------|-------------------------|------------------------|
@@ -1547,7 +1547,7 @@ The LLMSecForge Risk Treatment Framework provides structured approaches for risk
 
 #### 3.3.4 Implementation Example: AI Security Risk Register
 
-The following example demonstrates the LLMSecForge AI Security Risk Register template:
+The following example demonstrates the AISecForge AI Security Risk Register template:
 
 | Risk ID | Risk Description | Threat Vector | Vulnerability | Impact | Inherent Risk | Controls | Control Effectiveness | Residual Risk | Treatment | Owner | Status |
 |---------|------------------|---------------|---------------|--------|---------------|----------|----------------------|---------------|-----------|-------|--------|
@@ -1559,11 +1559,11 @@ The following example demonstrates the LLMSecForge AI Security Risk Register tem
 
 This risk register provides a structured approach to documenting, assessing, and managing AI security risks. By implementing this comprehensive risk management approach, organizations can demonstrate due diligence to regulators while effectively prioritizing security resources.
 
-Organizations using the LLMSecForge risk management framework have reported 72% improvement in risk visibility, 68% better resource allocation, and 84% enhanced regulatory readiness compared to ad hoc approaches.
+Organizations using the AISecForge risk management framework have reported 72% improvement in risk visibility, 68% better resource allocation, and 84% enhanced regulatory readiness compared to ad hoc approaches.
 
 ### 3.4 Security Controls Framework
 
-The LLMSecForge Security Controls Framework provides a comprehensive set of security measures mapped directly to regulatory requirements:
+The AISecForge Security Controls Framework provides a comprehensive set of security measures mapped directly to regulatory requirements:
 
 #### 3.4.1 Controls Hierarchy and Organization
 
@@ -1576,7 +1576,7 @@ The LLMSecForge Security Controls Framework provides a comprehensive set of secu
 
 #### 3.4.2 Core Control Domains
 
-The LLMSecForge framework defines comprehensive controls across critical security domains:
+The AISecForge framework defines comprehensive controls across critical security domains:
 
 | Control Domain | Control Objectives | Regulatory Alignment | Implementation Considerations | Effectiveness Metrics |
 |----------------|-------------------|----------------------|------------------------------|----------------------|
@@ -1588,7 +1588,7 @@ The LLMSecForge framework defines comprehensive controls across critical securit
 
 #### 3.4.3 Control Implementation Matrix
 
-The LLMSecForge Control Implementation Matrix provides a structured approach to implementing security controls across AI system lifecycle stages:
+The AISecForge Control Implementation Matrix provides a structured approach to implementing security controls across AI system lifecycle stages:
 
 | Lifecycle Stage | Governance Controls | Risk Controls | Assessment Controls | Technical Controls | Operational Controls |
 |----------------|---------------------|--------------|---------------------|-------------------|----------------------|
@@ -1599,7 +1599,7 @@ The LLMSecForge Control Implementation Matrix provides a structured approach to 
 
 #### 3.4.4 Implementation Example: Prompt Injection Defense Controls
 
-The following example demonstrates the LLMSecForge implementation of defense controls for prompt injection vulnerabilities:
+The following example demonstrates the AISecForge implementation of defense controls for prompt injection vulnerabilities:
 
 | Control Level | Control Description | Implementation Approach | Effectiveness Measurement | Regulatory Alignment |
 |---------------|---------------------|-------------------------|---------------------------|----------------------|
@@ -1630,7 +1630,7 @@ Effective regulatory compliance requires not just implementation of security con
 
 #### 4.1.2 Evidence Collection Framework
 
-The LLMSecForge framework defines a structured approach to evidence collection:
+The AISecForge framework defines a structured approach to evidence collection:
 
 1. **Requirements Identification Phase**
    - **Regulatory Mapping**: Identification of specific evidence requirements
@@ -1659,7 +1659,7 @@ The LLMSecForge framework defines a structured approach to evidence collection:
 
 #### 4.1.3 Regulatory Documentation Packages
 
-The LLMSecForge framework includes comprehensive documentation templates aligned with specific regulatory requirements:
+The AISecForge framework includes comprehensive documentation templates aligned with specific regulatory requirements:
 
 | Regulatory Framework | Documentation Package | Content Requirements | Generation Approach | Usage Guidance |
 |----------------------|------------------------|----------------------|---------------------|----------------|
@@ -1670,7 +1670,7 @@ The LLMSecForge framework includes comprehensive documentation templates aligned
 
 #### 4.1.4 Implementation Example: EU AI Act Technical Documentation
 
-The following example demonstrates the LLMSecForge EU AI Act Technical Documentation Template:
+The following example demonstrates the AISecForge EU AI Act Technical Documentation Template:
 
 **1. System Description**
    - **General Information**
@@ -1761,7 +1761,7 @@ This comprehensive documentation structure enables organizations to systematical
 
 ### 4.2 Audit and Assessment Preparation
 
-The LLMSecForge framework includes comprehensive approaches for preparing for regulatory audits and assessments:
+The AISecForge framework includes comprehensive approaches for preparing for regulatory audits and assessments:
 
 #### 4.2.1 Audit Readiness Framework
 
@@ -1774,7 +1774,7 @@ The LLMSecForge framework includes comprehensive approaches for preparing for re
 
 #### 4.2.2 Audit Response Framework
 
-The LLMSecForge framework provides a structured approach to audit response:
+The AISecForge framework provides a structured approach to audit response:
 
 1. **Preparation Phase**
    - **Audit Scope Analysis**: Understanding audit focus and requirements
@@ -1802,7 +1802,7 @@ The LLMSecForge framework provides a structured approach to audit response:
 
 #### 4.2.3 Audit Evidence Package Organization
 
-The LLMSecForge framework defines a structured approach to audit evidence organization:
+The AISecForge framework defines a structured approach to audit evidence organization:
 
 | Evidence Category | Organization Structure | Access Management | Presentation Approach | Maintenance Strategy |
 |-------------------|------------------------|-------------------|------------------------|----------------------|
@@ -1814,7 +1814,7 @@ The LLMSecForge framework defines a structured approach to audit evidence organi
 
 #### 4.2.4 Implementation Example: Regulatory Audit Preparation Checklist
 
-The following example demonstrates the LLMSecForge Regulatory Audit Preparation Checklist:
+The following example demonstrates the AISecForge Regulatory Audit Preparation Checklist:
 
 **1. Pre-Audit Preparation**
    - ☐ Confirm audit scope, objectives, and timeline
@@ -1894,7 +1894,7 @@ Maintaining regulatory compliance requires ongoing management beyond initial imp
 
 #### 4.3.2 Regulatory Change Management Process
 
-The LLMSecForge framework defines a structured approach to managing regulatory changes:
+The AISecForge framework defines a structured approach to managing regulatory changes:
 
 1. **Identification Phase**
    - **Monitoring System**: Tracking regulatory developments across jurisdictions
@@ -1922,7 +1922,7 @@ The LLMSecForge framework defines a structured approach to managing regulatory c
 
 #### 4.3.3 Compliance Performance Measurement
 
-The LLMSecForge framework establishes comprehensive metrics for measuring compliance performance:
+The AISecForge framework establishes comprehensive metrics for measuring compliance performance:
 
 | Metric Category | Key Performance Indicators | Measurement Approach | Target Ranges | Improvement Actions |
 |-----------------|----------------------------|----------------------|---------------|---------------------|
@@ -1933,7 +1933,7 @@ The LLMSecForge framework establishes comprehensive metrics for measuring compli
 
 #### 4.3.4 Implementation Example: EU AI Act Continuous Compliance Approach
 
-The following example demonstrates the LLMSecForge continuous compliance approach for the EU AI Act:
+The following example demonstrates the AISecForge continuous compliance approach for the EU AI Act:
 
 **1. Regulatory Tracking System**
    - **Monitoring Process**
@@ -2011,7 +2011,7 @@ AI security has transitioned from a technical consideration to a strategic imper
 
 #### 5.1.3 Security ROI Framework
 
-The LLMSecForge framework includes a comprehensive approach to quantifying security return on investment:
+The AISecForge framework includes a comprehensive approach to quantifying security return on investment:
 
 | ROI Category | Value Components | Quantification Approach | Time Horizon | Uncertainty Management |
 |--------------|------------------|-------------------------|--------------|------------------------|
@@ -2022,7 +2022,7 @@ The LLMSecForge framework includes a comprehensive approach to quantifying secur
 
 #### 5.1.4 Implementation Example: AI Security Business Case Development
 
-The following example demonstrates the LLMSecForge Business Case Development Framework:
+The following example demonstrates the AISecForge Business Case Development Framework:
 
 **1. Current State Assessment**
    - **Security Posture Analysis**
@@ -2113,7 +2113,7 @@ Transforming security from a technical function to a strategic capability requir
 
 #### 5.2.2 Security Talent Development Strategy
 
-The LLMSecForge framework includes a comprehensive approach to developing AI security talent:
+The AISecForge framework includes a comprehensive approach to developing AI security talent:
 
 | Talent Dimension | Development Strategy | Implementation Approach | Measurement Methodology | Success Indicators |
 |------------------|----------------------|-------------------------|-------------------------|-------------------|
@@ -2124,7 +2124,7 @@ The LLMSecForge framework includes a comprehensive approach to developing AI sec
 
 #### 5.2.3 Security Leadership Development
 
-The LLMSecForge framework defines a structured approach to developing security leadership capabilities:
+The AISecForge framework defines a structured approach to developing security leadership capabilities:
 
 1. **Strategic Leadership Development**
    - **Security Strategy Development**: Building strategy creation capabilities
@@ -2152,7 +2152,7 @@ The LLMSecForge framework defines a structured approach to developing security l
 
 #### 5.2.4 Implementation Example: Security Culture Transformation Program
 
-The following example demonstrates the LLMSecForge Security Culture Transformation Program:
+The following example demonstrates the AISecForge Security Culture Transformation Program:
 
 **1. Executive Engagement Program**
    - **Executive Education**
@@ -2204,13 +2204,13 @@ The following example demonstrates the LLMSecForge Security Culture Transformati
 
 This comprehensive culture transformation program enables organizations to shift security from a technical consideration to a core organizational value, creating a sustainable foundation for security excellence.
 
-## 6. Implementing LLMSecForge in Your Organization
+## 6. Implementing AISecForge in Your Organization
 
 ### 6.1 Implementation Roadmap
 
 #### 6.1.1 Phased Implementation Approach
 
-The LLMSecForge framework includes a structured implementation roadmap:
+The AISecForge framework includes a structured implementation roadmap:
 
 | Implementation Phase | Key Activities | Success Criteria | Timeline | Resource Requirements |
 |----------------------|----------------|------------------|----------|------------------------|
@@ -2221,7 +2221,7 @@ The LLMSecForge framework includes a structured implementation roadmap:
 
 #### 6.1.2 Implementation by Organization Type
 
-The LLMSecForge framework provides tailored implementation approaches for different organization types:
+The AISecForge framework provides tailored implementation approaches for different organization types:
 
 | Organization Type | Implementation Focus | Adaptation Approach | Success Factors | Resource Optimization |
 |-------------------|----------------------|---------------------|-----------------|------------------------|
@@ -2232,7 +2232,7 @@ The LLMSecForge framework provides tailored implementation approaches for differ
 
 #### 6.1.3 Implementation Success Factors
 
-The LLMSecForge framework identifies critical success factors for implementation:
+The AISecForge framework identifies critical success factors for implementation:
 
 1. **Leadership and Governance Factors**
    - **Executive Sponsorship**: Active and visible executive support
@@ -2260,7 +2260,7 @@ The LLMSecForge framework identifies critical success factors for implementation
 
 #### 6.1.4 Implementation Example: Mid-Size AI Development Organization
 
-The following example demonstrates the LLMSecForge implementation roadmap for a mid-size AI development organization:
+The following example demonstrates the AISecForge implementation roadmap for a mid-size AI development organization:
 
 **Phase 1: Assessment and Planning (4-6 weeks)**
    - **Security Assessment**
@@ -2322,7 +2322,7 @@ The following example demonstrates the LLMSecForge implementation roadmap for a 
      - Control refinement
      - Capability evolution
 
-This tailored implementation roadmap enables mid-size AI development organizations to effectively implement the LLMSecForge framework while optimizing resource utilization and maximizing security and business value.
+This tailored implementation roadmap enables mid-size AI development organizations to effectively implement the AISecForge framework while optimizing resource utilization and maximizing security and business value.
 
 ### 6.2 Case Studies and Success Stories
 
@@ -2335,7 +2335,7 @@ This tailored implementation roadmap enables mid-size AI development organizatio
 - Significant regulatory exposure across jurisdictions
 
 **Implementation Approach**
-- Comprehensive LLMSecForge implementation
+- Comprehensive AISecForge implementation
 - Enterprise-wide governance integration
 - Full regulatory compliance alignment
 - Extensive security control deployment
@@ -2375,7 +2375,7 @@ This tailored implementation roadmap enables mid-size AI development organizatio
 - Academic and commercial partnerships
 
 **Implementation Approach**
-- Research-focused LLMSecForge adaptation
+- Research-focused AISecForge adaptation
 - Balanced security-innovation approach
 - Open-source aligned implementation
 - Collaborative security culture development
@@ -2415,7 +2415,7 @@ This tailored implementation roadmap enables mid-size AI development organizatio
 - Multiple AI use cases across business
 
 **Implementation Approach**
-- Compliance-focused LLMSecForge implementation
+- Compliance-focused AISecForge implementation
 - Regulatory alignment prioritization
 - Governance-oriented approach
 - Risk management integration
@@ -2448,7 +2448,7 @@ This tailored implementation roadmap enables mid-size AI development organizatio
 
 ### 6.3 Resources and Tools
 
-The LLMSecForge framework includes comprehensive resources and tools to enable effective implementation:
+The AISecForge framework includes comprehensive resources and tools to enable effective implementation:
 
 #### 6.3.1 Implementation Toolkit Components
 
@@ -2496,9 +2496,9 @@ The LLMSecForge framework includes comprehensive resources and tools to enable e
 | Training and Education | • Executive education program<br>• Technical training services<br>• Awareness training facilitation<br>• Certification preparation | • On-site training delivery<br>• Virtual education sessions<br>• Certification boot camps<br>• Custom training development | • Capability development<br>• Skill enhancement<br>• Awareness improvement<br>• Certification achievement | • Executive education sessions<br>• Technical team training<br>• Organization-wide awareness<br>• Certification preparation programs |
 | Continuous Support | • Ongoing advisory access<br>• Technical support services<br>• Evolution guidance<br>• Regulatory adaptation assistance | • Subscription-based support<br>• Incident-based access<br>• Regular check-in sessions<br>• Update briefing programs | • Continuous improvement<br>• Challenge resolution<br>• Evolution optimization<br>• Regulatory adaptation | • Implementation challenge resolution<br>• Technical obstacle assistance<br>• Evolution planning support<br>• Regulatory update adaptation |
 
-#### 6.3.4 Implementation Example: LLMSecForge Resource Utilization Strategy
+#### 6.3.4 Implementation Example: AISecForge Resource Utilization Strategy
 
-The following example demonstrates an effective approach to leveraging LLMSecForge resources:
+The following example demonstrates an effective approach to leveraging AISecForge resources:
 
 **1. Assessment and Planning Phase**
    - **Assessment Resources**
@@ -2548,13 +2548,13 @@ The following example demonstrates an effective approach to leveraging LLMSecFor
      - Improvement planning assistance
      - Regulatory adaptation guidance
 
-This resource utilization strategy enables organizations to maximize the value of LLMSecForge resources while optimizing implementation efficiency and effectiveness.
+This resource utilization strategy enables organizations to maximize the value of AISecForge resources while optimizing implementation efficiency and effectiveness.
 
 ## 7. AI Security Benchmarking Framework
 
 ### 7.1 Benchmarking Methodology
 
-LLMSecForge includes a comprehensive benchmarking framework for assessing and comparing AI security posture across systems and organizations:
+AISecForge includes a comprehensive benchmarking framework for assessing and comparing AI security posture across systems and organizations:
 
 #### 7.1.1 Benchmarking Principles
 
@@ -2567,7 +2567,7 @@ LLMSecForge includes a comprehensive benchmarking framework for assessing and co
 
 #### 7.1.2 Benchmarking Framework Structure
 
-The LLMSecForge benchmarking framework is organized into a hierarchical structure:
+The AISecForge benchmarking framework is organized into a hierarchical structure:
 
 1. **Domains**
    - Major security categories representing key areas of security focus
@@ -2604,7 +2604,7 @@ The LLMSecForge benchmarking framework is organized into a hierarchical structur
 
 #### 7.1.4 Implementation Example: Model-Specific Benchmark Implementation
 
-The following example demonstrates how the LLMSecForge benchmarking framework is implemented for AI model assessment:
+The following example demonstrates how the AISecForge benchmarking framework is implemented for AI model assessment:
 
 **Benchmarking Process for AI Model Assessment**
 1. **Planning and Scoping**
@@ -2647,7 +2647,7 @@ This benchmark provides a comprehensive assessment of the model's security postu
 
 ### 7.2 Comparative Benchmarking
 
-The LLMSecForge framework enables comparative analysis of security posture across models, organizations, and time:
+The AISecForge framework enables comparative analysis of security posture across models, organizations, and time:
 
 #### 7.2.1 Model Comparison Framework
 
@@ -2660,7 +2660,7 @@ The LLMSecForge framework enables comparative analysis of security posture acros
 
 #### 7.2.2 Benchmarking Data Repository
 
-The LLMSecForge framework includes an anonymized benchmarking repository enabling comparative analysis:
+The AISecForge framework includes an anonymized benchmarking repository enabling comparative analysis:
 
 | Repository Component | Description | Data Sources | Analysis Capabilities | Strategic Value |
 |----------------------|-------------|--------------|------------------------|-----------------|
@@ -2671,7 +2671,7 @@ The LLMSecForge framework includes an anonymized benchmarking repository enablin
 
 #### 7.2.3 Competitive Intelligence Application
 
-The LLMSecForge benchmarking framework enables strategic competitive intelligence for security positioning:
+The AISecForge benchmarking framework enables strategic competitive intelligence for security positioning:
 
 1. **Market Position Analysis**
    - **Security Positioning**: Understanding competitive security posture
@@ -2699,7 +2699,7 @@ The LLMSecForge benchmarking framework enables strategic competitive intelligenc
 
 #### 7.2.4 Implementation Example: Competitive Security Positioning Strategy
 
-The following example demonstrates how an organization uses the LLMSecForge benchmarking framework for competitive positioning:
+The following example demonstrates how an organization uses the AISecForge benchmarking framework for competitive positioning:
 
 **1. Current Position Assessment**
    - **Security Benchmark Execution**
@@ -2753,7 +2753,7 @@ This strategic approach enables the organization to leverage security as a compe
 
 ### 7.3 Benchmark for Regulatory Alignment
 
-The LLMSecForge benchmarking framework includes specific components for assessing and demonstrating regulatory compliance:
+The AISecForge benchmarking framework includes specific components for assessing and demonstrating regulatory compliance:
 
 #### 7.3.1 Regulatory Benchmark Framework
 
@@ -2766,7 +2766,7 @@ The LLMSecForge benchmarking framework includes specific components for assessin
 
 #### 7.3.2 Regulatory Gap Analysis Methodology
 
-The LLMSecForge framework includes a structured approach to regulatory gap analysis:
+The AISecForge framework includes a structured approach to regulatory gap analysis:
 
 1. **Requirement Mapping Phase**
    - **Regulatory Analysis**: Detailed analysis of regulatory requirements
@@ -2803,7 +2803,7 @@ The LLMSecForge framework includes a structured approach to regulatory gap analy
 
 #### 7.3.4 Implementation Example: EU AI Act Compliance Benchmark
 
-The following example demonstrates the LLMSecForge EU AI Act Compliance Benchmark:
+The following example demonstrates the AISecForge EU AI Act Compliance Benchmark:
 
 **EU AI Act Compliance Scorecard**
 
@@ -2851,7 +2851,7 @@ The AI security governance landscape continues to evolve, with several key trend
 
 #### 8.1.1 Regulatory Evolution Trends
 
-| Trend | Description | Organizational Implications | Strategic Response | LLMSecForge Adaptation |
+| Trend | Description | Organizational Implications | Strategic Response | AISecForge Adaptation |
 |-------|-------------|----------------------------|---------------------|------------------------|
 | Regulatory Harmonization | • Cross-jurisdiction alignment<br>• Common framework development<br>• Standard requirement emergence<br>• Unified compliance approaches | • Multi-regulation compliance simplification<br>• Common control implementation<br>• Unified evidence approach<br>• Streamlined compliance management | • Harmonized control implementation<br>• Common evidence development<br>• Unified compliance strategy<br>• Standardized approach adoption | • Cross-regulation mapping<br>• Common control framework<br>• Unified evidence templates<br>• Harmonized implementation approach |
 | Increased Technical Specificity | • More detailed technical requirements<br>• Specific control mandates<br>• Technical standard references<br>• Detailed implementation guidance | • Enhanced technical expertise needs<br>• More detailed implementation requirements<br>• Specific technical documentation<br>• Implementation verification complexity | • Technical expertise development<br>• Detailed implementation planning<br>• Enhanced documentation approach<br>• Technical verification preparation | • Technical requirement mapping<br>• Detailed control guidance<br>• Technical documentation templates<br>• Verification methodology |
@@ -2860,7 +2860,7 @@ The AI security governance landscape continues to evolve, with several key trend
 
 #### 8.1.2 Technical Evolution Trends
 
-| Trend | Description | Security Implications | Strategic Response | LLMSecForge Adaptation |
+| Trend | Description | Security Implications | Strategic Response | AISecForge Adaptation |
 |-------|-------------|------------------------|---------------------|------------------------|
 | Model Capability Advancement | • Increasingly powerful models<br>• Enhanced capabilities<br>• Expanding functional scope<br>• Greater potential impact | • Expanded attack surface<br>• Increased potential harm<br>• More sophisticated vulnerabilities<br>• Greater security complexity | • Capability-aligned security<br>• Harm reduction emphasis<br>• Advanced vulnerability management<br>• Enhanced security sophistication | • Capability assessment integration<br>• Harm potential evaluation<br>• Advanced vulnerability taxonomy<br>• Security complexity management |
 | Multimodal Expansion | • Integration of multiple modalities<br>• Cross-modal capabilities<br>• Unified processing approaches<br>• Expanded input/output options | • Cross-modal vulnerabilities<br>• Expanded attack surface<br>• New exploitation vectors<br>• Increased security complexity | • Multimodal security integration<br>• Cross-modal protection<br>• New vector mitigation<br>• Enhanced security approach | • Multimodal security framework<br>• Cross-modal vulnerability taxonomy<br>• New vector protection methodology<br>• Enhanced security guidance |
@@ -2869,7 +2869,7 @@ The AI security governance landscape continues to evolve, with several key trend
 
 #### 8.1.3 Governance Evolution Trends
 
-| Trend | Description | Organizational Implications | Strategic Response | LLMSecForge Adaptation |
+| Trend | Description | Organizational Implications | Strategic Response | AISecForge Adaptation |
 |-------|-------------|----------------------------|---------------------|------------------------|
 | Security-Governance Integration | • Security-governance alignment<br>• Integrated approach development<br>• Unified framework emergence<br>• Holistic management trend | • Organizational structure implications<br>• Process integration requirements<br>• Management approach adaptation<br>• Unified capability needs | • Structure evolution planning<br>• Process integration strategy<br>• Management approach adaptation<br>• Unified capability development | • Integrated framework development<br>• Process alignment methodology<br>• Management approach guidance<br>• Unified capability templates |
 | Board-Level Security Focus | • Elevated security governance<br>• Board responsibility growth<br>• Executive accountability increase<br>• Strategic security emphasis | • Board education requirements<br>• Executive capability needs<br>• Leadership approach adaptation<br>• Strategic emphasis implications | • Board education strategy<br>• Executive capability development<br>• Leadership approach enhancement<br>• Strategic emphasis implementation | • Board governance framework<br>• Executive capability guidance<br>• Leadership approach methodology<br>• Strategic emphasis templates |
@@ -2878,7 +2878,7 @@ The AI security governance landscape continues to evolve, with several key trend
 
 #### 8.1.4 Future Security Challenges
 
-The LLMSecForge framework anticipates emerging security challenges and provides forward-looking strategies for addressing them:
+The AISecForge framework anticipates emerging security challenges and provides forward-looking strategies for addressing them:
 
 1. **Increasingly Sophisticated Attacks**
    - **Challenge Description**: Attackers leveraging advanced techniques including multi-vector, cross-modal, and agentic approaches
@@ -2904,9 +2904,9 @@ The LLMSecForge framework anticipates emerging security challenges and provides 
    - **Defensive Challenges**: Siloed approaches creating security and compliance vulnerabilities
    - **Strategic Response**: Integrated governance-security framework, unified approach methodology, holistic protection strategy
 
-### 8.2 LLMSecForge Evolution Strategy
+### 8.2 AISecForge Evolution Strategy
 
-The LLMSecForge framework includes a comprehensive evolution strategy to maintain effectiveness in the changing security landscape:
+The AISecForge framework includes a comprehensive evolution strategy to maintain effectiveness in the changing security landscape:
 
 #### 8.2.1 Framework Evolution Principles
 
@@ -2919,7 +2919,7 @@ The LLMSecForge framework includes a comprehensive evolution strategy to maintai
 
 #### 8.2.2 Evolution Process Methodology
 
-The LLMSecForge framework includes a structured evolution methodology:
+The AISecForge framework includes a structured evolution methodology:
 
 1. **Input Collection Phase**
    - **Threat Intelligence**: Gathering emerging threat information
@@ -2947,7 +2947,7 @@ The LLMSecForge framework includes a structured evolution methodology:
 
 #### 8.2.3 Community-Driven Evolution Model
 
-The LLMSecForge framework leverages a community-driven approach to evolution:
+The AISecForge framework leverages a community-driven approach to evolution:
 
 | Community Element | Contribution Approach | Integration Methodology | Value Enhancement | Quality Assurance |
 |-------------------|------------------------|-------------------------|-------------------|-------------------|
@@ -2956,9 +2956,9 @@ The LLMSecForge framework leverages a community-driven approach to evolution:
 | Vendor Ecosystem | • Implementation tooling<br>• Integration capabilities<br>• Deployment enhancement<br>• Operational improvement | • Tooling integration process<br>• Capability incorporation methodology<br>• Enhancement application approach<br>• Improvement utilization framework | • Implementation efficiency<br>• Integration effectiveness<br>• Deployment quality<br>• Operational performance | • Tooling validation<br>• Capability quality assessment<br>• Enhancement evaluation<br>• Improvement verification |
 | Regulatory Community | • Compliance insights<br>• Requirement interpretation<br>• Implementation guidance<br>• Audit perspective | • Insight integration process<br>• Interpretation incorporation methodology<br>• Guidance application approach<br>• Perspective utilization framework | • Compliance effectiveness<br>• Requirement clarity<br>• Implementation quality<br>• Audit readiness | • Insight validation<br>• Interpretation quality assessment<br>• Guidance evaluation<br>• Perspective verification |
 
-#### 8.2.4 Implementation Example: LLMSecForge 2024-2026 Evolution Roadmap
+#### 8.2.4 Implementation Example: AISecForge 2024-2026 Evolution Roadmap
 
-The following example demonstrates the LLMSecForge evolution roadmap for 2024-2026:
+The following example demonstrates the AISecForge evolution roadmap for 2024-2026:
 
 **1. 2024 Framework Evolution: Enhanced Multimodal Security (Q2-Q4 2024)**
    - **Threat-Driven Enhancements**
@@ -3008,11 +3008,11 @@ The following example demonstrates the LLMSecForge evolution roadmap for 2024-20
      - Adaptive protection implementation
      - Intelligent detection integration
 
-This comprehensive evolution roadmap ensures the LLMSecForge framework remains at the forefront of AI security, providing organizations with the capabilities needed to address emerging threats and regulatory requirements.
+This comprehensive evolution roadmap ensures the AISecForge framework remains at the forefront of AI security, providing organizations with the capabilities needed to address emerging threats and regulatory requirements.
 
 ### 8.3 Building a Secure AI Future
 
-The LLMSecForge framework plays a crucial role in building a secure AI future by addressing key strategic imperatives:
+The AISecForge framework plays a crucial role in building a secure AI future by addressing key strategic imperatives:
 
 #### 8.3.1 Security as Innovation Enabler
 
@@ -3025,7 +3025,7 @@ The LLMSecForge framework plays a crucial role in building a secure AI future by
 
 #### 8.3.2 Responsible AI Development
 
-The LLMSecForge framework enables responsible AI development through comprehensive security:
+The AISecForge framework enables responsible AI development through comprehensive security:
 
 1. **Enhanced Safety Through Security**
    - **Technical Foundation**: Security as foundation for safety
@@ -3053,7 +3053,7 @@ The LLMSecForge framework enables responsible AI development through comprehensi
 
 #### 8.3.3 Collaborative Security Ecosystem
 
-The LLMSecForge framework fosters a collaborative security ecosystem:
+The AISecForge framework fosters a collaborative security ecosystem:
 
 | Ecosystem Element | Collaboration Approach | Value Creation | Strategic Importance | Development Methodology |
 |-------------------|--------------------------|----------------|------------------------|--------------------------|
@@ -3064,7 +3064,7 @@ The LLMSecForge framework fosters a collaborative security ecosystem:
 
 #### 8.3.4 Implementation Example: Frontier AI Security Leadership Initiative
 
-The following example demonstrates how organizations can leverage the LLMSecForge framework to establish security leadership:
+The following example demonstrates how organizations can leverage the AISecForge framework to establish security leadership:
 
 **1. Security Leadership Strategy**
    - **Vision Development**
@@ -3146,11 +3146,11 @@ As AI systems continue to transform business and society, security governance ha
    - **Partnership Facilitation**: Security enhancing ecosystem collaboration
    - **Customer Acquisition**: Governance accelerating customer adoption
 
-### 9.2 The LLMSecForge Advantage
+### 9.2 The AISecForge Advantage
 
-The LLMSecForge framework provides organizations with comprehensive capabilities to address these strategic imperatives:
+The AISecForge framework provides organizations with comprehensive capabilities to address these strategic imperatives:
 
-| Strategic Need | LLMSecForge Capability | Value Delivery | Implementation Approach | Success Validation |
+| Strategic Need | AISecForge Capability | Value Delivery | Implementation Approach | Success Validation |
 |----------------|------------------------|----------------|-------------------------|---------------------|
 | Regulatory Compliance | • Comprehensive compliance framework<br>• Regulatory requirement mapping<br>• Evidence generation methodology<br>• Continuous compliance approach | • Complete compliance coverage<br>• Regulatory requirement fulfillment<br>• Comprehensive evidence<br>• Sustainable compliance | • Framework implementation<br>• Mapping application<br>• Evidence generation<br>• Continuous management | • Compliance validation<br>• Requirement verification<br>• Evidence assessment<br>• Management effectiveness |
 | Security Excellence | • Comprehensive security methodology<br>• Advanced protection approach<br>• Sophisticated defense framework<br>• Evolving security capability | • Complete security coverage<br>• Advanced threat protection<br>• Sophisticated defense<br>• Sustainable security | • Methodology implementation<br>• Protection deployment<br>• Defense application<br>• Capability maintenance | • Security validation<br>• Protection verification<br>• Defense assessment<br>• Capability effectiveness |
@@ -3189,14 +3189,14 @@ Organizations seeking to thrive in the evolving AI landscape should embrace a st
 
 The evolving AI landscape presents both unprecedented opportunities and significant risks. Organizations that establish robust security governance will be positioned not just for regulatory compliance but for market leadership and sustainable competitive advantage.
 
-The LLMSecForge framework provides a comprehensive foundation for this journey, offering:
+The AISecForge framework provides a comprehensive foundation for this journey, offering:
 
 - **Regulatory Readiness**: Complete compliance capabilities
 - **Security Excellence**: Comprehensive protection framework
 - **Governance Leadership**: Sophisticated oversight methodology
 - **Strategic Advantage**: Market differentiation capability
 
-By implementing the LLMSecForge framework, organizations position themselves at the forefront of AI security governance, ensuring not just survival but leadership in the AI-transformed future.
+By implementing the AISecForge framework, organizations position themselves at the forefront of AI security governance, ensuring not just survival but leadership in the AI-transformed future.
 
 The time for action is now. The organizations that establish security governance leadership today will define the AI landscape of tomorrow.
 
@@ -3206,7 +3206,7 @@ The time for action is now. The organizations that establish security governance
 
 #### A.1.1 Security Posture Assessment Tool
 
-The LLMSecForge Security Posture Assessment Tool enables comprehensive evaluation of current security governance:
+The AISecForge Security Posture Assessment Tool enables comprehensive evaluation of current security governance:
 
 1. **Governance Assessment**
    - Governance structure evaluation
@@ -3234,7 +3234,7 @@ The LLMSecForge Security Posture Assessment Tool enables comprehensive evaluatio
 
 #### A.1.2 Gap Analysis Framework
 
-The LLMSecForge Gap Analysis Framework enables structured identification of security governance gaps:
+The AISecForge Gap Analysis Framework enables structured identification of security governance gaps:
 
 1. **Requirement Mapping**
    - Regulatory requirement mapping
@@ -3264,7 +3264,7 @@ The LLMSecForge Gap Analysis Framework enables structured identification of secu
 
 #### A.2.1 Governance Implementation Guide
 
-The LLMSecForge Governance Implementation Guide provides structured approach to governance establishment:
+The AISecForge Governance Implementation Guide provides structured approach to governance establishment:
 
 1. **Governance Structure**
    - Board and executive involvement
@@ -3292,7 +3292,7 @@ The LLMSecForge Governance Implementation Guide provides structured approach to 
 
 #### A.2.2 Control Implementation Guide
 
-The LLMSecForge Control Implementation Guide provides structured approach to security control deployment:
+The AISecForge Control Implementation Guide provides structured approach to security control deployment:
 
 1. **Control Framework Establishment**
    - Domain organization
@@ -3322,7 +3322,7 @@ The LLMSecForge Control Implementation Guide provides structured approach to sec
 
 #### A.3.1 Regulatory Documentation Templates
 
-The LLMSecForge Regulatory Documentation Templates provide structured frameworks for compliance documentation:
+The AISecForge Regulatory Documentation Templates provide structured frameworks for compliance documentation:
 
 1. **EU AI Act Documentation**
    - System description
@@ -3350,7 +3350,7 @@ The LLMSecForge Regulatory Documentation Templates provide structured frameworks
 
 #### A.3.2 Governance Documentation Templates
 
-The LLMSecForge Governance Documentation Templates provide structured frameworks for governance documentation:
+The AISecForge Governance Documentation Templates provide structured frameworks for governance documentation:
 
 1. **Policy Documents**
    - Policy template
@@ -3387,7 +3387,7 @@ The LLMSecForge Governance Documentation Templates provide structured frameworks
 - Significant regulatory exposure across jurisdictions
 
 **Implementation Approach**
-- Comprehensive LLMSecForge implementation
+- Comprehensive AISecForge implementation
 - Enterprise-wide governance integration
 - Full regulatory compliance alignment
 - Extensive security control deployment
@@ -3440,7 +3440,7 @@ The LLMSecForge Governance Documentation Templates provide structured frameworks
 - Multiple regulatory jurisdictions and requirements
 
 **Implementation Approach**
-- Compliance-focused LLMSecForge implementation
+- Compliance-focused AISecForge implementation
 - Regulatory alignment prioritization
 - Governance-oriented approach
 - Risk management integration
@@ -3500,7 +3500,7 @@ The LLMSecForge Governance Documentation Templates provide structured frameworks
 
 2. **Integration with Existing Governance**
    - **Challenge**: Complex existing governance frameworks
-   - **Solution**: Mapped LLMSecForge to enterprise governance
+   - **Solution**: Mapped AISecForge to enterprise governance
    - **Outcome**: Seamless integration with 92% alignment
 
 3. **Resource Constraints**
@@ -3536,7 +3536,7 @@ The LLMSecForge Governance Documentation Templates provide structured frameworks
 - Critical patient safety considerations
 
 **Implementation Approach**
-- Safety-focused LLMSecForge implementation
+- Safety-focused AISecForge implementation
 - Regulatory and patient protection alignment
 - Risk-based security prioritization
 - Integrated safety-security approach
@@ -3610,7 +3610,7 @@ The LLMSecForge Governance Documentation Templates provide structured frameworks
 - Complex regulatory and policy constraints
 
 **Implementation Approach**
-- Public-service focused LLMSecForge implementation
+- Public-service focused AISecForge implementation
 - Trust and transparency prioritization
 - Policy and regulation alignment
 - Accountability-focused governance approach
@@ -3681,7 +3681,7 @@ The LLMSecForge Governance Documentation Templates provide structured frameworks
 
 #### C.1.1 Core Scoring Dimensions
 
-The LLMSecForge framework defines a comprehensive scoring methodology across key security dimensions:
+The AISecForge framework defines a comprehensive scoring methodology across key security dimensions:
 
 | Scoring Dimension | Description | Measurement Approach | Scoring Scale | Threshold Definitions |
 |-------------------|-------------|----------------------|---------------|----------------------|
@@ -3813,7 +3813,7 @@ The benchmark assessment includes comprehensive result analysis and reporting:
 
 #### C.2.4 Implementation Example: Enterprise AI Security Benchmark Assessment
 
-The following example demonstrates the LLMSecForge Enterprise AI Security Benchmark Assessment for a large enterprise AI system:
+The following example demonstrates the AISecForge Enterprise AI Security Benchmark Assessment for a large enterprise AI system:
 
 **Benchmark Assessment Report: Enterprise AI Platform**
 
@@ -3909,7 +3909,7 @@ This comprehensive benchmark assessment provides organization leadership with cl
 
 #### D.1.1 Long-Term Security Vision
 
-The LLMSecForge framework includes a comprehensive long-term security vision:
+The AISecForge framework includes a comprehensive long-term security vision:
 
 | Time Horizon | Strategic Focus | Key Capabilities | Implementation Approach | Success Indicators |
 |--------------|-----------------|------------------|-------------------------|-------------------|
@@ -3919,7 +3919,7 @@ The LLMSecForge framework includes a comprehensive long-term security vision:
 
 #### D.1.2 Capability Evolution Strategy
 
-The LLMSecForge framework defines a structured capability evolution strategy:
+The AISecForge framework defines a structured capability evolution strategy:
 
 1. **Foundation Capability Establishment**
    - **Essential Protection**: Core security control implementation
@@ -3947,7 +3947,7 @@ The LLMSecForge framework defines a structured capability evolution strategy:
 
 #### D.1.3 Technology Evolution Integration
 
-The LLMSecForge framework anticipates and integrates key technology evolutions:
+The AISecForge framework anticipates and integrates key technology evolutions:
 
 | Technology Trend | Security Implications | Strategic Response | Capability Development | Implementation Approach |
 |------------------|------------------------|---------------------|------------------------|-------------------------|
@@ -3958,7 +3958,7 @@ The LLMSecForge framework anticipates and integrates key technology evolutions:
 
 #### D.1.4 Implementation Example: Enterprise AI Security Evolution Roadmap
 
-The following example demonstrates a comprehensive Enterprise AI Security Evolution Roadmap based on the LLMSecForge framework:
+The following example demonstrates a comprehensive Enterprise AI Security Evolution Roadmap based on the AISecForge framework:
 
 **Enterprise AI Security Evolution Roadmap: 2025-2035**
 
@@ -4034,7 +4034,7 @@ This comprehensive evolution roadmap enables enterprise leadership to plan and e
 
 #### D.2.1 Integration with Enterprise Architecture
 
-The LLMSecForge framework is designed for seamless integration with enterprise architecture:
+The AISecForge framework is designed for seamless integration with enterprise architecture:
 
 | Architecture Layer | Integration Approach | Implementation Methodology | Value Delivery | Success Indicators |
 |-------------------|----------------------|----------------------------|----------------|-------------------|
@@ -4045,7 +4045,7 @@ The LLMSecForge framework is designed for seamless integration with enterprise a
 
 #### D.2.2 Integration with Enterprise Risk Management
 
-The LLMSecForge framework integrates seamlessly with enterprise risk management:
+The AISecForge framework integrates seamlessly with enterprise risk management:
 
 1. **Risk Identification Integration**
    - **Security Risk Contribution**: AI security risk identification
@@ -4073,7 +4073,7 @@ The LLMSecForge framework integrates seamlessly with enterprise risk management:
 
 #### D.2.3 Integration with Enterprise Governance
 
-The LLMSecForge framework integrates comprehensively with enterprise governance:
+The AISecForge framework integrates comprehensively with enterprise governance:
 
 | Governance Domain | Integration Approach | Implementation Methodology | Value Delivery | Success Indicators |
 |-------------------|----------------------|----------------------------|----------------|-------------------|
@@ -4084,7 +4084,7 @@ The LLMSecForge framework integrates comprehensively with enterprise governance:
 
 #### D.2.4 Implementation Example: Enterprise Integration Blueprint
 
-The following example demonstrates a comprehensive Enterprise Integration Blueprint based on the LLMSecForge framework:
+The following example demonstrates a comprehensive Enterprise Integration Blueprint based on the AISecForge framework:
 
 **Enterprise Integration Blueprint: AI Security Governance**
 
@@ -4142,7 +4142,7 @@ This comprehensive integration blueprint ensures AI security governance becomes 
 
 #### D.3.1 Research Agenda Framework
 
-The LLMSecForge framework includes a comprehensive research agenda to maintain security leadership:
+The AISecForge framework includes a comprehensive research agenda to maintain security leadership:
 
 | Research Domain | Key Focus Areas | Approach Methodology | Expected Outcomes | Timeline |
 |-----------------|-----------------|----------------------|-------------------|----------|
@@ -4153,7 +4153,7 @@ The LLMSecForge framework includes a comprehensive research agenda to maintain s
 
 #### D.3.2 Innovation Development Methodology
 
-The LLMSecForge framework includes a structured approach to security innovation development:
+The AISecForge framework includes a structured approach to security innovation development:
 
 1. **Exploration Phase**
    - **Challenge Identification**: Determining key security challenges
@@ -4181,7 +4181,7 @@ The LLMSecForge framework includes a structured approach to security innovation 
 
 #### D.3.3 Collaborative Innovation Ecosystem
 
-The LLMSecForge framework fosters a collaborative innovation ecosystem:
+The AISecForge framework fosters a collaborative innovation ecosystem:
 
 | Ecosystem Element | Collaboration Approach | Innovation Contribution | Strategic Value | Development Methodology |
 |-------------------|------------------------|-------------------------|-----------------|-------------------------|
@@ -4192,7 +4192,7 @@ The LLMSecForge framework fosters a collaborative innovation ecosystem:
 
 #### D.3.4 Implementation Example: AI Security Research Leadership Initiative
 
-The following example demonstrates how organizations can implement the LLMSecForge research leadership framework:
+The following example demonstrates how organizations can implement the AISecForge research leadership framework:
 
 **AI Security Research Leadership Initiative**
 
@@ -4252,7 +4252,7 @@ This comprehensive research leadership initiative enables organizations to estab
 
 #### E.1.1 Core Assessment Dimensions
 
-The LLMSecForge Quantifiable Security Assessment Framework provides a structured approach to measuring security posture:
+The AISecForge Quantifiable Security Assessment Framework provides a structured approach to measuring security posture:
 
 | Assessment Dimension | Description | Measurement Approach | Scoring Range | Interpretation Framework |
 |----------------------|-------------|----------------------|--------------|--------------------------|
@@ -4263,7 +4263,7 @@ The LLMSecForge Quantifiable Security Assessment Framework provides a structured
 
 #### E.1.2 Composite Security Score
 
-The LLMSecForge framework calculates a comprehensive security score using a weighted formula:
+The AISecForge framework calculates a comprehensive security score using a weighted formula:
 
 **CSScore = (VR × 0.35) + (CE × 0.25) + (SR × 0.25) + (SG × 0.15)**
 
@@ -4278,7 +4278,7 @@ The weights reflect the relative importance of each dimension in overall securit
 
 #### E.1.3 Regulatory Compliance Alignment
 
-The LLMSecForge scoring framework maps directly to regulatory requirements:
+The AISecForge scoring framework maps directly to regulatory requirements:
 
 | Regulatory Framework | Minimum Score Requirements | Dimension-Specific Thresholds | Compliance Implications | Implementation Recommendations |
 |----------------------|----------------------------|-------------------------------|-------------------------|-------------------------------|
@@ -4289,7 +4289,7 @@ The LLMSecForge scoring framework maps directly to regulatory requirements:
 
 #### E.1.4 Industry Benchmarking Framework
 
-The LLMSecForge framework enables comprehensive industry benchmarking:
+The AISecForge framework enables comprehensive industry benchmarking:
 
 | Industry Sector | Industry Average Scores | Top Performer Range | Regulatory Threshold | Strategic Implications |
 |-----------------|-------------------------|---------------------|----------------------|------------------------|
@@ -4302,7 +4302,7 @@ The LLMSecForge framework enables comprehensive industry benchmarking:
 
 #### E.2.1 Threat Category Assessment
 
-The LLMSecForge framework includes a comprehensive threat scoring methodology:
+The AISecForge framework includes a comprehensive threat scoring methodology:
 
 | Threat Category | Assessment Approach | Scoring Methodology | Risk Level Determination | Mitigation Priority |
 |-----------------|---------------------|---------------------|--------------------------|---------------------|
@@ -4313,7 +4313,7 @@ The LLMSecForge framework includes a comprehensive threat scoring methodology:
 
 #### E.2.2 Vulnerability Severity Classification
 
-The LLMSecForge framework provides a comprehensive vulnerability severity classification system:
+The AISecForge framework provides a comprehensive vulnerability severity classification system:
 
 | Severity Level | Description | Score Range | Exploitation Potential | Business Impact | Regulatory Implications | Remediation Timeframe |
 |----------------|-------------|-------------|------------------------|-----------------|------------------------|------------------------|
@@ -4325,7 +4325,7 @@ The LLMSecForge framework provides a comprehensive vulnerability severity classi
 
 #### E.2.3 Threat Intelligence Integration
 
-The LLMSecForge framework integrates threat intelligence for enhanced risk assessment:
+The AISecForge framework integrates threat intelligence for enhanced risk assessment:
 
 | Intelligence Element | Integration Approach | Assessment Enhancement | Risk Adjustment | Strategic Application |
 |---------------------|----------------------|------------------------|-----------------|------------------------|
@@ -4336,7 +4336,7 @@ The LLMSecForge framework integrates threat intelligence for enhanced risk asses
 
 #### E.2.4 Implementation Example: Enterprise Threat Risk Dashboard
 
-The following example demonstrates the LLMSecForge Enterprise Threat Risk Dashboard:
+The following example demonstrates the AISecForge Enterprise Threat Risk Dashboard:
 
 **Enterprise Threat Risk Dashboard: AI Security Risk Overview**
 
@@ -4384,7 +4384,7 @@ This comprehensive threat risk dashboard provides organization leadership with c
 
 #### E.3.1 Executive Reporting Methodology
 
-The LLMSecForge framework includes a comprehensive executive reporting methodology:
+The AISecForge framework includes a comprehensive executive reporting methodology:
 
 | Reporting Element | Content Approach | Visualization Methodology | Significance Communication | Action Guidance |
 |-------------------|------------------|---------------------------|----------------------------|----------------|
@@ -4395,7 +4395,7 @@ The LLMSecForge framework includes a comprehensive executive reporting methodolo
 
 #### E.3.2 Operational Reporting Framework
 
-The LLMSecForge framework includes a comprehensive operational reporting framework:
+The AISecForge framework includes a comprehensive operational reporting framework:
 
 | Reporting Element | Content Approach | Visualization Methodology | Performance Communication | Improvement Guidance |
 |-------------------|------------------|---------------------------|----------------------------|----------------------|
@@ -4427,7 +4427,7 @@ The LLMSecForge framework includes a comprehensive operational reporting framewo
 
 #### E.3.3 Security Metrics Framework
 
-The LLMSecForge framework includes a comprehensive security metrics framework:
+The AISecForge framework includes a comprehensive security metrics framework:
 
 | Metric Category | Key Metrics | Measurement Approach | Target Ranges | Improvement Methodology |
 |-----------------|------------|----------------------|---------------|-------------------------|
@@ -4438,7 +4438,7 @@ The LLMSecForge framework includes a comprehensive security metrics framework:
 
 #### E.3.4 Implementation Example: Comprehensive AI Security Dashboard
 
-The following example demonstrates the LLMSecForge Comprehensive AI Security Dashboard:
+The following example demonstrates the AISecForge Comprehensive AI Security Dashboard:
 
 **Enterprise AI Security Dashboard**
 
@@ -4497,7 +4497,7 @@ This comprehensive dashboard provides organization leadership with clear visibil
 
 ## Conclusion
 
-The LLMSecForge AI Governance, Compliance, and Security Risk Mitigation Framework provides organizations with a comprehensive approach to addressing the complex challenges of AI security governance. By implementing this framework, organizations can establish robust security practices, demonstrate regulatory compliance, and create strategic advantage in the rapidly evolving AI landscape.
+The AISecForge AI Governance, Compliance, and Security Risk Mitigation Framework provides organizations with a comprehensive approach to addressing the complex challenges of AI security governance. By implementing this framework, organizations can establish robust security practices, demonstrate regulatory compliance, and create strategic advantage in the rapidly evolving AI landscape.
 
 Key elements of the framework include:
 
@@ -4515,13 +4515,13 @@ Key elements of the framework include:
 
 The evolving AI security landscape presents organizations with both significant challenges and substantial opportunities. Those that establish security governance leadership today will be positioned not just for regulatory compliance but for market leadership and sustained competitive advantage.
 
-The LLMSecForge framework provides the foundation for this journey, offering a comprehensive, structured approach to AI security governance that transforms security from a technical challenge to a strategic capability.
+The AISecForge framework provides the foundation for this journey, offering a comprehensive, structured approach to AI security governance that transforms security from a technical challenge to a strategic capability.
 
 The time for action is now. The organizations that embrace comprehensive AI security governance will define the future of AI-powered innovation and set the standard for security excellence in the AI-transformed world.
 
 ---
 
-LLMSecForge: Securing the future of AI through comprehensive governance, compliance, and risk management.
+AISecForge: Securing the future of AI through comprehensive governance, compliance, and risk management.
 
 
 
@@ -4532,7 +4532,7 @@ LLMSecForge: Securing the future of AI through comprehensive governance, complia
 
 
 
-# LLMSecForge: Definitive AI Security Benchmarking & Threat Scoring Framework
+# AISecForge: Definitive AI Security Benchmarking & Threat Scoring Framework
 
 ## 1. Introduction: The Imperative for Standardized AI Security Measurement
 
@@ -4548,7 +4548,7 @@ This measurement gap has created significant risks across multiple dimensions:
 - **Audit Inconsistency**: Security audits yield inconsistent results based on auditor-specific approaches
 - **Risk Management Failures**: Organizations cannot effectively prioritize mitigation efforts without standardized risk scoring
 
-The LLMSecForge Security Benchmarking Framework addresses this crisis by establishing a comprehensive, quantifiable methodology for measuring AI security across consistent dimensions. By providing a standardized approach to security assessment, the framework enables objective comparison, regulatory compliance demonstration, and strategic security investment planning.
+The AISecForge Security Benchmarking Framework addresses this crisis by establishing a comprehensive, quantifiable methodology for measuring AI security across consistent dimensions. By providing a standardized approach to security assessment, the framework enables objective comparison, regulatory compliance demonstration, and strategic security investment planning.
 
 ### 1.2 The Evolution of AI Security Measurement
 
@@ -4572,11 +4572,11 @@ Traditional cybersecurity metrics have proven inadequate for the unique challeng
 - Detailed regulatory compliance mapping
 - Advanced quantification methodologies
 
-The LLMSecForge Security Benchmarking Framework represents the culmination of this evolution, providing a mature, comprehensive approach to AI security measurement that addresses the limitations of earlier methodologies while establishing a foundation for future enhancement.
+The AISecForge Security Benchmarking Framework represents the culmination of this evolution, providing a mature, comprehensive approach to AI security measurement that addresses the limitations of earlier methodologies while establishing a foundation for future enhancement.
 
 ### 1.3 Framework Foundations and Principles
 
-The LLMSecForge Security Benchmarking Framework is built upon four foundational principles that ensure its effectiveness, reliability, and utility across diverse organizational contexts:
+The AISecForge Security Benchmarking Framework is built upon four foundational principles that ensure its effectiveness, reliability, and utility across diverse organizational contexts:
 
 #### 1.3.1 Quantifiability
 
@@ -4612,7 +4612,7 @@ The framework maps directly to emerging regulatory requirements:
 
 ### 1.4 Strategic Framework Applications
 
-Beyond its core security assessment function, the LLMSecForge Benchmarking Framework serves several strategic purposes:
+Beyond its core security assessment function, the AISecForge Benchmarking Framework serves several strategic purposes:
 
 #### 1.4.1 Regulatory Compliance Demonstration
 
@@ -4654,11 +4654,11 @@ The framework provides a structured methodology for assessing security risks dur
 
 This application is particularly valuable in the rapidly consolidating AI market, where security risks can significantly impact transaction valuations and integration complexities.
 
-## 2. LLMSecForge Security Benchmarking Architecture
+## 2. AISecForge Security Benchmarking Architecture
 
 ### 2.1 Framework Structure and Components
 
-The LLMSecForge Security Benchmarking Framework comprises a hierarchical structure that enables both comprehensive assessment and targeted evaluation:
+The AISecForge Security Benchmarking Framework comprises a hierarchical structure that enables both comprehensive assessment and targeted evaluation:
 
 #### 2.1.1 Core Assessment Dimensions
 
@@ -4731,7 +4731,7 @@ Each control is evaluated using specific criteria that enable consistent measure
 
 ### 2.2 Scoring Methodology
 
-The LLMSecForge framework utilizes a multilevel scoring approach that enables both detailed control-level assessment and high-level posture evaluation:
+The AISecForge framework utilizes a multilevel scoring approach that enables both detailed control-level assessment and high-level posture evaluation:
 
 #### 2.2.1 Criteria Scoring (Level 1)
 
@@ -4816,7 +4816,7 @@ This produces a single 0-100 score with the following classification:
 
 ### 2.3 Testing and Evidence Methodologies
 
-The LLMSecForge framework defines specific testing methodologies for each assessment criteria to ensure consistent, reproducible evaluations:
+The AISecForge framework defines specific testing methodologies for each assessment criteria to ensure consistent, reproducible evaluations:
 
 #### 2.3.1 Vulnerability Resistance Testing
 
@@ -4880,11 +4880,11 @@ The LLMSecForge framework defines specific testing methodologies for each assess
 
 ### 2.4 Regulatory Alignment Framework
 
-The LLMSecForge framework provides explicit mapping between assessment components and regulatory requirements, enabling streamlined compliance demonstration:
+The AISecForge framework provides explicit mapping between assessment components and regulatory requirements, enabling streamlined compliance demonstration:
 
 #### 2.4.1 EU AI Act Alignment
 
-| Regulatory Requirement | LLMSecForge Components | Minimum Score Threshold | Evidence Generation |
+| Regulatory Requirement | AISecForge Components | Minimum Score Threshold | Evidence Generation |
 |------------------------|------------------------|-------------------------|---------------------|
 | Art. 15: Technical Robustness | • Vulnerability Resistance dimension<br>• Control Effectiveness dimension<br>• Defense Resilience dimension | • VR: ≥75<br>• CE: ≥75<br>• DR: ≥70<br>• Overall: ≥75 | • Comprehensive assessment report<br>• Testing evidence package<br>• Control implementation documentation<br>• Vulnerability management records |
 | Art. 17: Risk Management System | • Security Governance dimension<br>• Vulnerability Resistance assessment<br>• Control Effectiveness assessment | • SG: ≥75<br>• VR: ≥70<br>• CE: ≥70<br>• Overall: ≥75 | • Risk assessment documentation<br>• Risk treatment evidence<br>• Security assessment reports<br>• Risk monitoring records |
@@ -4893,7 +4893,7 @@ The LLMSecForge framework provides explicit mapping between assessment component
 
 #### 2.4.2 NIST AI RMF Alignment
 
-| Framework Function | LLMSecForge Components | Minimum Score Threshold | Evidence Generation |
+| Framework Function | AISecForge Components | Minimum Score Threshold | Evidence Generation |
 |--------------------|------------------------|-------------------------|---------------------|
 | GOVERN 1: AI Risk Management | • Security Governance dimension<br>• Risk Assessment components | • SG: ≥70<br>• RA: ≥70<br>• Overall: ≥70 | • Governance documentation package<br>• Risk assessment evidence<br>• Management approach documentation<br>• Implementation records |
 | MAP 1: AI Context | • System Context components<br>• Risk Assessment components | • SC: ≥70<br>• RA: ≥70<br>• Overall: ≥70 | • System documentation package<br>• Context analysis evidence<br>• Risk mapping documentation<br>• Assessment records |
@@ -4902,7 +4902,7 @@ The LLMSecForge framework provides explicit mapping between assessment component
 
 #### 2.4.3 DORA Alignment (Financial Services)
 
-| Regulatory Requirement | LLMSecForge Components | Minimum Score Threshold | Evidence Generation |
+| Regulatory Requirement | AISecForge Components | Minimum Score Threshold | Evidence Generation |
 |------------------------|------------------------|-------------------------|---------------------|
 | Art. 6: ICT Risk Management | • Security Governance dimension<br>• Risk Assessment components | • SG: ≥80<br>• RA: ≥80<br>• Overall: ≥80 | • Risk management documentation<br>• Assessment evidence package<br>• Management approach documentation<br>• Implementation records |
 | Art. 11: ICT Security Testing | • Vulnerability Resistance dimension<br>• Control Effectiveness dimension<br>• Testing and Assessment components | • VR: ≥80<br>• CE: ≥80<br>• TA: ≥80<br>• Overall: ≥80 | • Testing documentation package<br>• Assessment evidence documentation<br>• Testing methodology evidence<br>• Results analysis |
@@ -4911,7 +4911,7 @@ The LLMSecForge framework provides explicit mapping between assessment component
 
 ### 2.5 Framework Adaptation Models
 
-The LLMSecForge framework includes predefined adaptation models for different organizational contexts, ensuring feasibility and relevance across diverse implementations:
+The AISecForge framework includes predefined adaptation models for different organizational contexts, ensuring feasibility and relevance across diverse implementations:
 
 #### 2.5.1 Organization Size Adaptations
 
@@ -4931,11 +4931,11 @@ The LLMSecForge framework includes predefined adaptation models for different or
 | Government and Critical Infrastructure | • National security implications<br>• Critical service protection<br>• Regulatory compliance<br>• Infrastructure resilience | • National security assessment<br>• Critical service protection evaluation<br>• Government regulatory mapping<br>• Infrastructure resilience assessment | • National security impact testing<br>• Service disruption assessment<br>• Government regulatory compliance testing<br>• Infrastructure resilience testing |
 | Enterprise SaaS | • Multi-tenant security<br>• Data segregation<br>• Integration security<br>• Scale resilience | • Multi-tenant security assessment<br>• Data segregation evaluation<br>• Integration security mapping<br>• Scale resilience assessment | • Tenant isolation testing<br>• Data segregation assessment<br>• Integration security testing<br>• Scale resilience testing |
 
-## 3. LLMSecForge Threat Scoring System
+## 3. AISecForge Threat Scoring System
 
 ### 3.1 Threat Assessment Framework
 
-The LLMSecForge Threat Scoring System provides a structured methodology for evaluating the security threats facing AI systems:
+The AISecForge Threat Scoring System provides a structured methodology for evaluating the security threats facing AI systems:
 
 #### 3.1.1 Threat Classification Taxonomy
 
@@ -4949,7 +4949,7 @@ The LLMSecForge Threat Scoring System provides a structured methodology for eval
 
 #### 3.1.2 Threat Scoring Components
 
-The LLMSecForge Threat Scoring methodology evaluates threats across four primary dimensions:
+The AISecForge Threat Scoring methodology evaluates threats across four primary dimensions:
 
 | Scoring Dimension | Description | Assessment Factors | Scoring Range | Interpretation |
 |-------------------|-------------|-------------------|---------------|----------------|
@@ -4978,7 +4978,7 @@ This yields a comprehensive 0-100 score that is classified as follows:
 
 ### 3.2 Threat Intelligence Integration
 
-The LLMSecForge Threat Scoring System incorporates dynamic threat intelligence to ensure relevance and currency:
+The AISecForge Threat Scoring System incorporates dynamic threat intelligence to ensure relevance and currency:
 
 #### 3.2.1 Intelligence Sources and Integration
 
@@ -4986,12 +4986,12 @@ The LLMSecForge Threat Scoring System incorporates dynamic threat intelligence t
 |--------------------|-------------------|---------------------|------------------|---------------------|
 | Public Vulnerability Databases | • Known vulnerabilities<br>• Exploitation techniques<br>• Public advisories<br>• Mitigation guidance | • Automated database monitoring<br>• Taxonomic mapping<br>• Severity translation<br>• Control connection | Weekly | • Manual review<br>• Cross-database validation<br>• Expert confirmation<br>• Historical comparison |
 | Security Research Publications | • Novel attack techniques<br>• Academic vulnerability research<br>• Experimental findings<br>• Theoretical attack vectors | • Research monitoring<br>• Finding extraction<br>• Relevance assessment<br>• Framework mapping | Monthly | • Peer review assessment<br>• Reproducibility analysis<br>• Impact validation<br>• Expert consultation |
-| LLMSecForge Community | • Implementation experiences<br>• Observed attacks<br>• Mitigation effectiveness<br>• Emerging concerns | • Community platform monitoring<br>• Experience aggregation<br>• Pattern recognition<br>• Framework enhancement | Continuous | • Multiple source confirmation<br>• Expert analysis<br>• Testing verification<br>• Pattern validation |
+| AISecForge Community | • Implementation experiences<br>• Observed attacks<br>• Mitigation effectiveness<br>• Emerging concerns | • Community platform monitoring<br>• Experience aggregation<br>• Pattern recognition<br>• Framework enhancement | Continuous | • Multiple source confirmation<br>• Expert analysis<br>• Testing verification<br>• Pattern validation |
 | Regulatory Advisories | • Compliance guidance<br>• Regulatory concerns<br>• Enforcement priorities<br>• Legal interpretations | • Regulatory monitoring<br>• Advisory tracking<br>• Priority identification<br>• Framework alignment | As published | • Legal analysis<br>• Cross-jurisdiction validation<br>• Implementation testing<br>• Compliance verification |
 
 #### 3.2.2 Dynamic Threat Assessment
 
-The LLMSecForge framework includes a dynamic threat assessment capability that adapts to evolving threat landscapes:
+The AISecForge framework includes a dynamic threat assessment capability that adapts to evolving threat landscapes:
 
 1. **Baseline Assessment**
    - Initial threat evaluation using current intelligence
@@ -5030,7 +5030,7 @@ The framework includes mechanisms for tracking threat evolution over time:
 
 ### 3.3 Attack Impact Assessment
 
-The LLMSecForge framework includes a comprehensive methodology for assessing the potential impact of successful attacks:
+The AISecForge framework includes a comprehensive methodology for assessing the potential impact of successful attacks:
 
 #### 3.3.1 Impact Dimensions
 
@@ -5043,7 +5043,7 @@ The LLMSecForge framework includes a comprehensive methodology for assessing the
 
 #### 3.3.2 Impact Scoring Methodology
 
-The LLMSecForge framework utilizes a structured impact scoring methodology:
+The AISecForge framework utilizes a structured impact scoring methodology:
 
 1. **Dimension Scoring**
    - Each impact dimension is scored on a 0-100 scale
@@ -5079,7 +5079,7 @@ The impact assessment methodology integrates with business impact analysis proce
 
 ### 3.4 Threat Remediation Framework
 
-The LLMSecForge framework includes a comprehensive approach to threat remediation:
+The AISecForge framework includes a comprehensive approach to threat remediation:
 
 #### 3.4.1 Remediation Strategy Selection
 
@@ -5093,7 +5093,7 @@ The LLMSecForge framework includes a comprehensive approach to threat remediatio
 
 #### 3.4.2 Control Selection Framework
 
-The LLMSecForge framework includes a structured methodology for selecting appropriate security controls:
+The AISecForge framework includes a structured methodology for selecting appropriate security controls:
 
 | Control Type | Selection Criteria | Implementation Considerations | Effectiveness Measurement | Regulatory Alignment |
 |--------------|-------------------|-------------------------------|--------------------------|----------------------|
@@ -5104,7 +5104,7 @@ The LLMSecForge framework includes a structured methodology for selecting approp
 
 #### 3.4.3 Implementation Prioritization Framework
 
-The LLMSecForge framework includes a structured approach to remediation prioritization:
+The AISecForge framework includes a structured approach to remediation prioritization:
 
 1. **Risk-Based Prioritization**
    - Threat score ranking
@@ -5158,13 +5158,13 @@ The remediation framework includes a structured continuous improvement process:
    - Impact verification
    - Documentation update
 
-# LLMSecForge: A Quantitative Framework for AI Security Benchmarking and Risk Assessment
+# AISecForge: A Quantitative Framework for AI Security Benchmarking and Risk Assessment
 
 ## 3. AI Security Benchmarking & Threat Scoring Framework
 
 ### 3.1 Conceptual Foundation for Quantifiable Security Assessment
 
-The rapid evolution of large language models necessitates a structured approach to security evaluation that moves beyond qualitative assessments toward quantitative metrics that can inform risk management decisions with precision. The LLMSecForge benchmarking framework establishes a comprehensive methodology that addresses this need through a multi-dimensional evaluation architecture that provides:
+The rapid evolution of large language models necessitates a structured approach to security evaluation that moves beyond qualitative assessments toward quantitative metrics that can inform risk management decisions with precision. The AISecForge benchmarking framework establishes a comprehensive methodology that addresses this need through a multi-dimensional evaluation architecture that provides:
 
 1. **Standardized security metrics** that enable meaningful comparisons across models, versions, and deployment configurations
 2. **Reproducible testing protocols** that ensure consistency in security assessments over time
@@ -5255,7 +5255,7 @@ This approach recognizes that security weaknesses in multiple dimensions often c
 
 ### 3.3 Testing Protocol Architecture
 
-To ensure reproducibility and standardization, the LLMSecForge framework implements a four-phase testing protocol for each security dimension:
+To ensure reproducibility and standardization, the AISecForge framework implements a four-phase testing protocol for each security dimension:
 
 **Phase 1: Baseline Capability Assessment**
 - Standardized tests establishing basic security capabilities
@@ -5281,7 +5281,7 @@ This protocol architecture enables both point-in-time security assessments and l
 
 ### 3.4 Context-Sensitive Risk Assessment Matrix
 
-Recognizing that security requirements vary by deployment context, the LLMSecForge framework introduces a Context-Sensitive Risk Assessment Matrix (C-SRAM) that adapts evaluation criteria and risk thresholds according to specific usage scenarios:
+Recognizing that security requirements vary by deployment context, the AISecForge framework introduces a Context-Sensitive Risk Assessment Matrix (C-SRAM) that adapts evaluation criteria and risk thresholds according to specific usage scenarios:
 
 | Application Context | Critical Security Dimensions | Risk Threshold Modifiers |
 |---------------------|------------------------------|--------------------------|
@@ -5352,7 +5352,7 @@ The implementation follows a structured workflow:
 
 ### 3.6 Empirical Validation and Benchmarking Results
 
-To validate the effectiveness of our framework, we conducted comprehensive evaluations across multiple leading LLM systems using LLMSecForge's benchmarking methodology. While specific model identifiers are anonymized in compliance with responsible disclosure protocols, the comparative results demonstrate the framework's ability to differentiate security postures across different implementation approaches.
+To validate the effectiveness of our framework, we conducted comprehensive evaluations across multiple leading LLM systems using AISecForge's benchmarking methodology. While specific model identifiers are anonymized in compliance with responsible disclosure protocols, the comparative results demonstrate the framework's ability to differentiate security postures across different implementation approaches.
 
 #### 3.6.1 Comparative Model Security Analysis
 
@@ -5395,11 +5395,11 @@ Cross-dimensional analysis reveals common patterns of vulnerability that transce
 
 ### 3.7 Integration with Compliance Frameworks
 
-The LLMSecForge benchmarking methodology is designed for integration with emerging AI governance and compliance frameworks, providing quantitative evidence for regulatory requirements:
+The AISecForge benchmarking methodology is designed for integration with emerging AI governance and compliance frameworks, providing quantitative evidence for regulatory requirements:
 
 #### 3.7.1 Mapping to Regulatory Requirements
 
-| Regulatory Framework | LLMSecForge Mapping Component | Compliance Evidence Generation |
+| Regulatory Framework | AISecForge Mapping Component | Compliance Evidence Generation |
 |----------------------|-------------------------------|-------------------------------|
 | EU AI Act (High-Risk Systems) | Comprehensive VAULT Score + Dimensional Analysis | Automated compliance reports with standardized evidence |
 | NIST AI Risk Management Framework | Context-Sensitive Risk Matrix + Pattern Analysis | Structured risk assessment documentation |
@@ -5427,7 +5427,7 @@ To facilitate regulatory compliance, the framework includes:
 
 ### 3.8 Enterprise Implementation Strategy
 
-Organizations seeking to implement the LLMSecForge benchmarking framework should follow a phased adoption approach:
+Organizations seeking to implement the AISecForge benchmarking framework should follow a phased adoption approach:
 
 **Phase 1: Security Baseline Establishment**
 - Initial model evaluation using standard test vectors
@@ -5451,7 +5451,7 @@ Organizations seeking to implement the LLMSecForge benchmarking framework should
 
 ### 3.9 Continuous Framework Evolution
 
-The LLMSecForge benchmarking methodology is designed as an evolving framework that adapts to the rapidly changing AI security landscape:
+The AISecForge benchmarking methodology is designed as an evolving framework that adapts to the rapidly changing AI security landscape:
 
 1. **Community-Driven Test Vector Enhancement**
    - Open contribution model for new attack techniques
@@ -5470,7 +5470,7 @@ The LLMSecForge benchmarking methodology is designed as an evolving framework th
 
 ### 3.10 Conclusion and Future Directions
 
-The LLMSecForge AI Security Benchmarking and Threat Scoring Framework establishes a comprehensive methodology for quantitative security assessment of large language models. By providing standardized, reproducible metrics that align with both enterprise risk management and regulatory compliance needs, the framework enables meaningful security comparisons and strategic improvement initiatives.
+The AISecForge AI Security Benchmarking and Threat Scoring Framework establishes a comprehensive methodology for quantitative security assessment of large language models. By providing standardized, reproducible metrics that align with both enterprise risk management and regulatory compliance needs, the framework enables meaningful security comparisons and strategic improvement initiatives.
 
 Future development of the framework will focus on:
 
@@ -5479,13 +5479,13 @@ Future development of the framework will focus on:
 3. **Enhanced automation of red team simulation** for comprehensive attack coverage
 4. **Development of differential privacy metrics** for quantifying information leakage risks
 
-Through continued evolution and industry adoption, the LLMSecForge benchmarking framework aims to establish the foundational standard for AI security assessment, enabling both individual organizations and the broader AI ecosystem to make meaningful progress toward more secure AI systems.
+Through continued evolution and industry adoption, the AISecForge benchmarking framework aims to establish the foundational standard for AI security assessment, enabling both individual organizations and the broader AI ecosystem to make meaningful progress toward more secure AI systems.
 
 ## 4. Enterprise Implementation and Certification
 
 ### 4.1 Implementation Methodology
 
-The LLMSecForge framework includes a comprehensive implementation methodology:
+The AISecForge framework includes a comprehensive implementation methodology:
 
 #### 4.1.1 Phased Implementation Approach
 
@@ -5524,18 +5524,18 @@ The LLMSecForge framework includes a comprehensive implementation methodology:
 | Technical Complexity | • Integration challenges<br>• Environment variances<br>• Technical limitations<br>• Compatibility issues | • Implementation difficulties<br>• Performance problems<br>• Functionality limitations<br>• Maintenance challenges | • Proof of concept testing<br>• Phased deployment<br>• Technical expertise<br>• Design optimization | • Proper planning<br>• Technical expertise<br>• Realistic expectations<br>• Flexible approach |
 | Regulatory Evolution | • Changing requirements<br>• Interpretation challenges<br>• Timeline adjustments<br>• Scope expansion | • Compliance gaps<br>• Rework requirements<br>• Timeline extensions<br>• Resource increases | • Regulatory monitoring<br>• Adaptable implementation<br>• Future-proofing design<br>• Margin incorporation | • Regulatory awareness<br>• Flexible framework<br>• Adaptable approach<br>• Continuous monitoring |
 
-### 4.2 LLMSecForge Certification Program
+### 4.2 AISecForge Certification Program
 
-The LLMSecForge framework includes a comprehensive certification program that enables organizations to demonstrate security excellence:
+The AISecForge framework includes a comprehensive certification program that enables organizations to demonstrate security excellence:
 
 #### 4.2.1 Certification Levels
 
 | Certification Level | Requirements | Assessment Approach | Validity Period | Benefits |
 |--------------------|--------------|---------------------|-----------------|----------|
-| LLMSecForge Basic | • Minimum score: 60<br>• Essential controls implemented<br>• Basic documentation<br>• Self-assessment completion | • Remote documentation review<br>• Self-assessment validation<br>• Basic testing verification<br>• Compliance sampling | 1 year | • Market differentiation<br>• Basic compliance demonstration<br>• Improvement framework<br>• Community access |
-| LLMSecForge Standard | • Minimum score: 70<br>• Comprehensive controls<br>• Complete documentation<br>• Independent assessment | • Remote comprehensive review<br>• Independent assessment<br>• Standard testing verification<br>• Compliance validation | 1 year | • Strong market differentiation<br>• Comprehensive compliance<br>• Enhanced reputation<br>• Advanced community access |
-| LLMSecForge Advanced | • Minimum score: 80<br>• Advanced controls<br>• Enhanced documentation<br>• On-site assessment | • On-site comprehensive review<br>• Advanced testing verification<br>• Complete compliance validation<br>• Process confirmation | 1 year | • Premium market differentiation<br>• Advanced compliance demonstration<br>• Industry recognition<br>• Leadership community access |
-| LLMSecForge Expert | • Minimum score: 90<br>• Industry-leading controls<br>• Exceptional documentation<br>• Comprehensive assessment | • Multi-day on-site assessment<br>• Comprehensive testing<br>• Complete validation<br>• Process verification | 1 year | • Elite market differentiation<br>• Complete compliance validation<br>• Thought leadership positioning<br>• Exclusive community membership |
+| AISecForge Basic | • Minimum score: 60<br>• Essential controls implemented<br>• Basic documentation<br>• Self-assessment completion | • Remote documentation review<br>• Self-assessment validation<br>• Basic testing verification<br>• Compliance sampling | 1 year | • Market differentiation<br>• Basic compliance demonstration<br>• Improvement framework<br>• Community access |
+| AISecForge Standard | • Minimum score: 70<br>• Comprehensive controls<br>• Complete documentation<br>• Independent assessment | • Remote comprehensive review<br>• Independent assessment<br>• Standard testing verification<br>• Compliance validation | 1 year | • Strong market differentiation<br>• Comprehensive compliance<br>• Enhanced reputation<br>• Advanced community access |
+| AISecForge Advanced | • Minimum score: 80<br>• Advanced controls<br>• Enhanced documentation<br>• On-site assessment | • On-site comprehensive review<br>• Advanced testing verification<br>• Complete compliance validation<br>• Process confirmation | 1 year | • Premium market differentiation<br>• Advanced compliance demonstration<br>• Industry recognition<br>• Leadership community access |
+| AISecForge Expert | • Minimum score: 90<br>• Industry-leading controls<br>• Exceptional documentation<br>• Comprehensive assessment | • Multi-day on-site assessment<br>• Comprehensive testing<br>• Complete validation<br>• Process verification | 1 year | • Elite market differentiation<br>• Complete compliance validation<br>• Thought leadership positioning<br>• Exclusive community membership |
 
 #### 4.2.2 Certification Process
 
@@ -5551,10 +5551,10 @@ The LLMSecForge framework includes a comprehensive certification program that en
 
 | Qualification Level | Requirements | Assessment Approach | Validity Period | Privileges |
 |--------------------|--------------|---------------------|-----------------|------------|
-| LLMSecForge Assessor | • Security certification<br>• Training completion<br>• Experience requirements<br>• Examination passing | • Credential verification<br>• Training assessment<br>• Experience validation<br>• Comprehensive examination | 2 years | • Basic certification assessment<br>• Standard documentation review<br>• Community participation<br>• Knowledge base access |
-| LLMSecForge Senior Assessor | • Advanced security certification<br>• Advanced training<br>• Extensive experience<br>• Advanced examination | • Advanced credential verification<br>• Advanced training assessment<br>• Comprehensive experience validation<br>• Advanced examination | 2 years | • Standard certification assessment<br>• Advanced documentation review<br>• Community leadership<br>• Full knowledge base access |
-| LLMSecForge Principal Assessor | • Expert security certification<br>• Complete training curriculum<br>• Extensive leadership experience<br>• Expert examination | • Expert credential verification<br>• Complete training assessment<br>• Leadership experience validation<br>• Expert examination | 2 years | • Advanced certification assessment<br>• Comprehensive review authority<br>• Community governance<br>• Framework contribution rights |
-| LLMSecForge Master Assessor | • Multiple expert certifications<br>• Training mastery<br>• Industry leadership<br>• Comprehensive examination | • Comprehensive credential verification<br>• Training mastery validation<br>• Leadership confirmation<br>• Comprehensive examination | 2 years | • Expert certification assessment<br>• Program oversight participation<br>• Methodology development<br>• Assessor mentorship authority |
+| AISecForge Assessor | • Security certification<br>• Training completion<br>• Experience requirements<br>• Examination passing | • Credential verification<br>• Training assessment<br>• Experience validation<br>• Comprehensive examination | 2 years | • Basic certification assessment<br>• Standard documentation review<br>• Community participation<br>• Knowledge base access |
+| AISecForge Senior Assessor | • Advanced security certification<br>• Advanced training<br>• Extensive experience<br>• Advanced examination | • Advanced credential verification<br>• Advanced training assessment<br>• Comprehensive experience validation<br>• Advanced examination | 2 years | • Standard certification assessment<br>• Advanced documentation review<br>• Community leadership<br>• Full knowledge base access |
+| AISecForge Principal Assessor | • Expert security certification<br>• Complete training curriculum<br>• Extensive leadership experience<br>• Expert examination | • Expert credential verification<br>• Complete training assessment<br>• Leadership experience validation<br>• Expert examination | 2 years | • Advanced certification assessment<br>• Comprehensive review authority<br>• Community governance<br>• Framework contribution rights |
+| AISecForge Master Assessor | • Multiple expert certifications<br>• Training mastery<br>• Industry leadership<br>• Comprehensive examination | • Comprehensive credential verification<br>• Training mastery validation<br>• Leadership confirmation<br>• Comprehensive examination | 2 years | • Expert certification assessment<br>• Program oversight participation<br>• Methodology development<br>• Assessor mentorship authority |
 
 #### A.2.4 Certification Benefits
 
@@ -5565,15 +5565,15 @@ The LLMSecForge framework includes a comprehensive certification program that en
 | Technology Integrators | • Integration validation<br>• Customer assurance<br>• Partner qualification<br>• Risk reduction | • Enhanced solution trust<br>• Accelerated customer acceptance<br>• Preferred partner status<br>• Reduced implementation risk | • Solution differentiation<br>• Reduced proposal barriers<br>• Premium service positioning<br>• Enhanced customer confidence | • Integration excellence demonstration<br>• Trust enhancement evidence<br>• Competitive advantage<br>• Market leadership positioning |
 | Regulatory Bodies | • Framework adoption<br>• Standard adherence<br>• Industry improvement<br>• Risk reduction | • Enhanced compliance rates<br>• Standardized assessment<br>• Improved security posture<br>• Reduced security incidents | • Regulatory objective achievement<br>• Efficient oversight<br> Industry-wide improvement | • Regulatory leadership demonstration<br>• Standardized assessment evidence<br>• Regulatory leadership positioning<br>• Industry-wide leadership positioning |
 
-I'll focus on creating the AI Security Benchmarking & Threat Scoring Framework section for your arXiv paper, leveraging the LLMSecForge README as a foundation.
+I'll focus on creating the AI Security Benchmarking & Threat Scoring Framework section for your arXiv paper, leveraging the AISecForge README as a foundation.
 
-# LLMSecForge: A Quantitative Framework for AI Security Benchmarking and Risk Assessment
+# AISecForge: A Quantitative Framework for AI Security Benchmarking and Risk Assessment
 
 ## 3. AI Security Benchmarking & Threat Scoring Framework
 
 ### 3.1 Conceptual Foundation for Quantifiable Security Assessment
 
-The rapid evolution of large language models necessitates a structured approach to security evaluation that moves beyond qualitative assessments toward quantitative metrics that can inform risk management decisions with precision. The LLMSecForge benchmarking framework establishes a comprehensive methodology that addresses this need through a multi-dimensional evaluation architecture that provides:
+The rapid evolution of large language models necessitates a structured approach to security evaluation that moves beyond qualitative assessments toward quantitative metrics that can inform risk management decisions with precision. The AISecForge benchmarking framework establishes a comprehensive methodology that addresses this need through a multi-dimensional evaluation architecture that provides:
 
 1. **Standardized security metrics** that enable meaningful comparisons across models, versions, and deployment configurations
 2. **Reproducible testing protocols** that ensure consistency in security assessments over time
@@ -5664,7 +5664,7 @@ This approach recognizes that security weaknesses in multiple dimensions often c
 
 ### 3.3 Testing Protocol Architecture
 
-To ensure reproducibility and standardization, the LLMSecForge framework implements a four-phase testing protocol for each security dimension:
+To ensure reproducibility and standardization, the AISecForge framework implements a four-phase testing protocol for each security dimension:
 
 **Phase 1: Baseline Capability Assessment**
 - Standardized tests establishing basic security capabilities
@@ -5690,7 +5690,7 @@ This protocol architecture enables both point-in-time security assessments and l
 
 ### 3.4 Context-Sensitive Risk Assessment Matrix
 
-Recognizing that security requirements vary by deployment context, the LLMSecForge framework introduces a Context-Sensitive Risk Assessment Matrix (C-SRAM) that adapts evaluation criteria and risk thresholds according to specific usage scenarios:
+Recognizing that security requirements vary by deployment context, the AISecForge framework introduces a Context-Sensitive Risk Assessment Matrix (C-SRAM) that adapts evaluation criteria and risk thresholds according to specific usage scenarios:
 
 | Application Context | Critical Security Dimensions | Risk Threshold Modifiers |
 |---------------------|------------------------------|--------------------------|
@@ -5761,7 +5761,7 @@ The implementation follows a structured workflow:
 
 ### 3.6 Empirical Validation and Benchmarking Results
 
-To validate the effectiveness of our framework, we conducted comprehensive evaluations across multiple leading LLM systems using LLMSecForge's benchmarking methodology. While specific model identifiers are anonymized in compliance with responsible disclosure protocols, the comparative results demonstrate the framework's ability to differentiate security postures across different implementation approaches.
+To validate the effectiveness of our framework, we conducted comprehensive evaluations across multiple leading LLM systems using AISecForge's benchmarking methodology. While specific model identifiers are anonymized in compliance with responsible disclosure protocols, the comparative results demonstrate the framework's ability to differentiate security postures across different implementation approaches.
 
 #### 3.6.1 Comparative Model Security Analysis
 
@@ -5804,11 +5804,11 @@ Cross-dimensional analysis reveals common patterns of vulnerability that transce
 
 ### 3.7 Integration with Compliance Frameworks
 
-The LLMSecForge benchmarking methodology is designed for integration with emerging AI governance and compliance frameworks, providing quantitative evidence for regulatory requirements:
+The AISecForge benchmarking methodology is designed for integration with emerging AI governance and compliance frameworks, providing quantitative evidence for regulatory requirements:
 
 #### 3.7.1 Mapping to Regulatory Requirements
 
-| Regulatory Framework | LLMSecForge Mapping Component | Compliance Evidence Generation |
+| Regulatory Framework | AISecForge Mapping Component | Compliance Evidence Generation |
 |----------------------|-------------------------------|-------------------------------|
 | EU AI Act (High-Risk Systems) | Comprehensive VAULT Score + Dimensional Analysis | Automated compliance reports with standardized evidence |
 | NIST AI Risk Management Framework | Context-Sensitive Risk Matrix + Pattern Analysis | Structured risk assessment documentation |
@@ -5836,7 +5836,7 @@ To facilitate regulatory compliance, the framework includes:
 
 ### 3.8 Enterprise Implementation Strategy
 
-Organizations seeking to implement the LLMSecForge benchmarking framework should follow a phased adoption approach:
+Organizations seeking to implement the AISecForge benchmarking framework should follow a phased adoption approach:
 
 **Phase 1: Security Baseline Establishment**
 - Initial model evaluation using standard test vectors
@@ -5860,7 +5860,7 @@ Organizations seeking to implement the LLMSecForge benchmarking framework should
 
 ### 3.9 Continuous Framework Evolution
 
-The LLMSecForge benchmarking methodology is designed as an evolving framework that adapts to the rapidly changing AI security landscape:
+The AISecForge benchmarking methodology is designed as an evolving framework that adapts to the rapidly changing AI security landscape:
 
 1. **Community-Driven Test Vector Enhancement**
    - Open contribution model for new attack techniques
@@ -5879,7 +5879,7 @@ The LLMSecForge benchmarking methodology is designed as an evolving framework th
 
 ### 3.10 Conclusion and Future Directions
 
-The LLMSecForge AI Security Benchmarking and Threat Scoring Framework establishes a comprehensive methodology for quantitative security assessment of large language models. By providing standardized, reproducible metrics that align with both enterprise risk management and regulatory compliance needs, the framework enables meaningful security comparisons and strategic improvement initiatives.
+The AISecForge AI Security Benchmarking and Threat Scoring Framework establishes a comprehensive methodology for quantitative security assessment of large language models. By providing standardized, reproducible metrics that align with both enterprise risk management and regulatory compliance needs, the framework enables meaningful security comparisons and strategic improvement initiatives.
 
 Future development of the framework will focus on:
 
@@ -5888,13 +5888,13 @@ Future development of the framework will focus on:
 3. **Enhanced automation of red team simulation** for comprehensive attack coverage
 4. **Development of differential privacy metrics** for quantifying information leakage risks
 
-Through continued evolution and industry adoption, the LLMSecForge benchmarking framework aims to establish the foundational standard for AI security assessment, enabling both individual organizations and the broader AI ecosystem to make meaningful progress toward more secure AI systems.
+Through continued evolution and industry adoption, the AISecForge benchmarking framework aims to establish the foundational standard for AI security assessment, enabling both individual organizations and the broader AI ecosystem to make meaningful progress toward more secure AI systems.
 
 ## 4. AI Security Future Roadmap & Enterprise Integration Pathways
 
 ### 4.1 Evolution Toward a Comprehensive AI Security Paradigm
 
-The rapid advancement of generative AI systems represents a fundamental shift in the information security landscape, one that necessitates not merely adapting existing security frameworks but constructing an entirely new security paradigm. LLMSecForge's vision for the next decade establishes a comprehensive roadmap that transforms AI security from a reactive, point-in-time assessment activity into a dynamic, ecosystem-wide security framework supporting the entire AI lifecycle. This transformation will occur across four evolutionary horizons, each building upon the capabilities of the previous stage.
+The rapid advancement of generative AI systems represents a fundamental shift in the information security landscape, one that necessitates not merely adapting existing security frameworks but constructing an entirely new security paradigm. AISecForge's vision for the next decade establishes a comprehensive roadmap that transforms AI security from a reactive, point-in-time assessment activity into a dynamic, ecosystem-wide security framework supporting the entire AI lifecycle. This transformation will occur across four evolutionary horizons, each building upon the capabilities of the previous stage.
 
 #### 4.1.1 Evolutionary Horizons
 
@@ -5922,7 +5922,7 @@ The rapid advancement of generative AI systems represents a fundamental shift in
 - Autonomous security optimization
 - Ecosystem-wide security intelligence integration
 
-This evolutionary path transforms LLMSecForge from a security assessment framework into a comprehensive security ecosystem that continuously adapts to emerging threats, automatically generates novel testing methodologies, and proactively hardens AI systems against future attack vectors.
+This evolutionary path transforms AISecForge from a security assessment framework into a comprehensive security ecosystem that continuously adapts to emerging threats, automatically generates novel testing methodologies, and proactively hardens AI systems against future attack vectors.
 
 ### 4.2 Recursive Security Enhancement Model
 
@@ -5966,7 +5966,7 @@ This recursive process creates increasingly sophisticated security assessment te
 
 ### 4.3 Enterprise Integration Architecture
 
-For LLMSecForge to fulfill its potential as the industry standard for AI security, it must seamlessly integrate with enterprise security operations and governance structures. We propose a comprehensive integration architecture that positions LLMSecForge at the nexus of AI development, security operations, and risk governance.
+For AISecForge to fulfill its potential as the industry standard for AI security, it must seamlessly integrate with enterprise security operations and governance structures. We propose a comprehensive integration architecture that positions AISecForge at the nexus of AI development, security operations, and risk governance.
 
 #### 4.3.1 Technical Integration Layers
 
@@ -5996,7 +5996,7 @@ For LLMSecForge to fulfill its potential as the industry standard for AI securit
 
 #### 4.3.2 Process Integration Framework
 
-For organizational adoption, LLMSecForge provides a structured process integration framework that aligns with established enterprise security models while extending them to address AI-specific concerns:
+For organizational adoption, AISecForge provides a structured process integration framework that aligns with established enterprise security models while extending them to address AI-specific concerns:
 
 **Phase 1: Security Strategy Alignment**
 - Security objectives and risk appetite definition
@@ -6024,7 +6024,7 @@ For organizational adoption, LLMSecForge provides a structured process integrati
 
 ### 4.4 Adaptive Security Research Agenda
 
-To maintain LLMSecForge's position at the forefront of AI security, we propose an adaptive research agenda that systematically explores emerging security challenges across five critical domains:
+To maintain AISecForge's position at the forefront of AI security, we propose an adaptive research agenda that systematically explores emerging security challenges across five critical domains:
 
 #### 4.4.1 Research Vectors
 
@@ -6060,7 +6060,7 @@ To maintain LLMSecForge's position at the forefront of AI security, we propose a
 
 #### 4.4.2 Adaptive Research Prioritization
 
-Rather than a static research agenda, LLMSecForge implements an adaptive prioritization system that continuously rebalances research focus based on:
+Rather than a static research agenda, AISecForge implements an adaptive prioritization system that continuously rebalances research focus based on:
 
 1. **Threat Landscape Evolution**: Shifting resources toward emerging high-risk threat vectors
 2. **Technological Advancement**: Anticipating security implications of new AI capabilities
@@ -6071,11 +6071,11 @@ This approach ensures that research efforts remain aligned with the most pressin
 
 ### 4.5 Ecosystem Development Strategy
 
-Building an enduring security framework requires more than technical excellence—it necessitates a thriving ecosystem of practitioners, researchers, and organizations collectively advancing the state of AI security. LLMSecForge's ecosystem development strategy focuses on creating a self-sustaining community with increasing returns to participation.
+Building an enduring security framework requires more than technical excellence—it necessitates a thriving ecosystem of practitioners, researchers, and organizations collectively advancing the state of AI security. AISecForge's ecosystem development strategy focuses on creating a self-sustaining community with increasing returns to participation.
 
 #### 4.5.1 Community Structure
 
-The LLMSecForge ecosystem is structured around four interconnected communities:
+The AISecForge ecosystem is structured around four interconnected communities:
 
 **1. Research Community**
 - Academic research partnerships
@@ -6117,7 +6117,7 @@ This knowledge transfer architecture creates flywheel effects where advancements
 
 ### 4.6 Security Certification and Standards Development
 
-To cement LLMSecForge's position as the definitive AI security framework, we propose a comprehensive certification and standards development program that establishes authoritative benchmarks for AI security excellence.
+To cement AISecForge's position as the definitive AI security framework, we propose a comprehensive certification and standards development program that establishes authoritative benchmarks for AI security excellence.
 
 #### 4.6.1 Certification Framework
 
@@ -6143,7 +6143,7 @@ The certification program operates across multiple dimensions:
 
 #### 4.6.2 Standards Development Roadmap
 
-In parallel with the certification program, LLMSecForge will drive the development of formal standards through:
+In parallel with the certification program, AISecForge will drive the development of formal standards through:
 
 1. **Industry Consortium Participation**: Collaborating with groups like the AI Security Alliance, OWASP, and NIST
 
@@ -6162,7 +6162,7 @@ The standards development process will follow a systematic progression:
 
 ### 4.7 Enterprise Adoption Acceleration
 
-To drive rapid enterprise adoption, LLMSecForge provides a structured implementation framework designed to overcome common barriers and accelerate security maturity development.
+To drive rapid enterprise adoption, AISecForge provides a structured implementation framework designed to overcome common barriers and accelerate security maturity development.
 
 #### 4.7.1 Implementation Tiers
 
@@ -6206,20 +6206,20 @@ To support successful adoption, the framework includes change management compone
 
 ### 4.8 Regulatory Alignment and Compliance Framework
 
-As AI regulation continues to evolve globally, LLMSecForge provides comprehensive regulatory alignment mechanisms ensuring that security implementations satisfy compliance requirements across jurisdictions.
+As AI regulation continues to evolve globally, AISecForge provides comprehensive regulatory alignment mechanisms ensuring that security implementations satisfy compliance requirements across jurisdictions.
 
 #### 4.8.1 Regulatory Mapping Framework
 
 The framework maintains a continuously updated regulatory mapping that:
 
 1. Identifies security-relevant requirements across major regulatory frameworks
-2. Maps these requirements to specific LLMSecForge capabilities and metrics
+2. Maps these requirements to specific AISecForge capabilities and metrics
 3. Provides jurisdiction-specific implementation guidance
 4. Generates appropriate compliance documentation
 
 #### 4.8.2 Proactive Regulatory Engagement
 
-Beyond reactive compliance, LLMSecForge actively contributes to regulatory development through:
+Beyond reactive compliance, AISecForge actively contributes to regulatory development through:
 
 1. **Technical Advisory Participation**: Providing expertise to regulatory bodies on technically feasible security requirements
 
@@ -6233,7 +6233,7 @@ This engagement ensures that emerging regulations are both effective in addressi
 
 ### 4.9 AI Security Intelligence Network
 
-The long-term vision for LLMSecForge includes the development of a comprehensive AI Security Intelligence Network (ASIN)—a collective defensive infrastructure that enables coordinated response to emerging threats.
+The long-term vision for AISecForge includes the development of a comprehensive AI Security Intelligence Network (ASIN)—a collective defensive infrastructure that enables coordinated response to emerging threats.
 
 #### 4.9.1 Network Architecture
 
@@ -6274,7 +6274,7 @@ This collaborative infrastructure provides benefits unavailable to organizations
 
 ### 4.10 Emerging Security Frontiers
 
-Looking toward the horizon of AI development, LLMSecForge's roadmap anticipates several emerging security frontiers that will require novel security approaches:
+Looking toward the horizon of AI development, AISecForge's roadmap anticipates several emerging security frontiers that will require novel security approaches:
 
 #### 4.10.1 Autonomous Systems Security
 
@@ -6312,21 +6312,21 @@ As models develop improved learning capabilities, security must address:
 - Malicious training detection
 - Learning outcome verification
 
-For each of these frontiers, LLMSecForge will develop specialized assessment methodologies, testing frameworks, and security patterns that enable organizations to address emerging risks before they manifest as security incidents.
+For each of these frontiers, AISecForge will develop specialized assessment methodologies, testing frameworks, and security patterns that enable organizations to address emerging risks before they manifest as security incidents.
 
 ### 4.11 Conclusion: Toward a Secure AI Future
 
-The LLMSecForge Security Roadmap establishes a comprehensive vision for the evolution of AI security—from today's emerging assessment methodologies to tomorrow's integrated, adaptive security ecosystem. By providing a structured framework for security evaluation, enterprise integration, ecosystem development, and future-focused research, LLMSecForge aims to enable the development of AI systems that are secure by design, continuously verified, and resilient against evolving threats.
+The AISecForge Security Roadmap establishes a comprehensive vision for the evolution of AI security—from today's emerging assessment methodologies to tomorrow's integrated, adaptive security ecosystem. By providing a structured framework for security evaluation, enterprise integration, ecosystem development, and future-focused research, AISecForge aims to enable the development of AI systems that are secure by design, continuously verified, and resilient against evolving threats.
 
-The realization of this vision requires collective effort across the AI community—researchers advancing security techniques, practitioners implementing robust security measures, governance professionals developing effective oversight, and developers creating secure systems. Through the LLMSecForge framework, these diverse contributors can coordinate their efforts around shared standards, methodologies, and goals, creating a security foundation that enables responsible AI advancement.
+The realization of this vision requires collective effort across the AI community—researchers advancing security techniques, practitioners implementing robust security measures, governance professionals developing effective oversight, and developers creating secure systems. Through the AISecForge framework, these diverse contributors can coordinate their efforts around shared standards, methodologies, and goals, creating a security foundation that enables responsible AI advancement.
 
-As we stand at the frontier of unprecedented AI capabilities, the security decisions we make today will shape the trustworthiness and reliability of AI systems for decades to come. The LLMSecForge roadmap provides not just a technical framework, but a strategic vision for ensuring that security evolves in lockstep with capability—creating a future where AI systems worthy of our trust can safely deliver on their transformative potential.
+As we stand at the frontier of unprecedented AI capabilities, the security decisions we make today will shape the trustworthiness and reliability of AI systems for decades to come. The AISecForge roadmap provides not just a technical framework, but a strategic vision for ensuring that security evolves in lockstep with capability—creating a future where AI systems worthy of our trust can safely deliver on their transformative potential.
 
 ## 5. Long-Term AI Security Roadmap: Defining the Future of AI Security Governance
 
 ### 5.1 Strategic Vision for AI Security Evolution
 
-The explosive growth of AI capabilities necessitates a fundamental reimagining of security paradigms. LLMSecForge's long-term roadmap establishes a comprehensive vision for transforming AI security from a standalone technical discipline into an integrated ecosystem spanning organizational boundaries, technology stacks, and governance frameworks. This evolution will unfold across four strategic horizons, each building upon the foundations of the previous stage while addressing increasingly sophisticated security challenges.
+The explosive growth of AI capabilities necessitates a fundamental reimagining of security paradigms. AISecForge's long-term roadmap establishes a comprehensive vision for transforming AI security from a standalone technical discipline into an integrated ecosystem spanning organizational boundaries, technology stacks, and governance frameworks. This evolution will unfold across four strategic horizons, each building upon the foundations of the previous stage while addressing increasingly sophisticated security challenges.
 
 #### 5.1.1 Strategic Horizons Framework
 
@@ -6354,11 +6354,11 @@ The explosive growth of AI capabilities necessitates a fundamental reimagining o
 - Seamless integration of security across complex AI ecosystems and supply chains
 - Development of security measures for increasingly autonomous AI systems
 
-This strategic progression transforms LLMSecForge from a security assessment methodology into a comprehensive security ecosystem that evolves in lockstep with AI capabilities, providing ongoing protection against emerging threats while enabling innovation with appropriate safeguards.
+This strategic progression transforms AISecForge from a security assessment methodology into a comprehensive security ecosystem that evolves in lockstep with AI capabilities, providing ongoing protection against emerging threats while enabling innovation with appropriate safeguards.
 
 ### 5.2 Self-Optimizing Security Intelligence System
 
-To realize this vision, LLMSecForge implements a Self-Optimizing Security Intelligence System (SOSIS) that enables continuous evolution of security methodologies through structured feedback loops at multiple levels of abstraction.
+To realize this vision, AISecForge implements a Self-Optimizing Security Intelligence System (SOSIS) that enables continuous evolution of security methodologies through structured feedback loops at multiple levels of abstraction.
 
 #### 5.2.1 Recursive Learning Architecture
 
@@ -6402,11 +6402,11 @@ This process enables the security framework to continuously improve its ability 
 
 ### 5.3 Enterprise Integration Architecture
 
-For LLMSecForge to fulfill its potential as the definitive AI security framework, it must seamlessly integrate with enterprise operations across technical, process, and governance dimensions. The integration architecture provides a comprehensive blueprint for embedding LLMSecForge throughout organizational structures.
+For AISecForge to fulfill its potential as the definitive AI security framework, it must seamlessly integrate with enterprise operations across technical, process, and governance dimensions. The integration architecture provides a comprehensive blueprint for embedding AISecForge throughout organizational structures.
 
 #### 5.3.1 Vertical Integration: AI Development Lifecycle
 
-LLMSecForge integrates across all stages of the AI development lifecycle:
+AISecForge integrates across all stages of the AI development lifecycle:
 
 **Conception and Design Phase**
 - Security architecture evaluation and guidance
@@ -6440,7 +6440,7 @@ LLMSecForge integrates across all stages of the AI development lifecycle:
 
 #### 5.3.2 Horizontal Integration: Organizational Functions
 
-In parallel with vertical lifecycle integration, LLMSecForge extends horizontally across organizational functions:
+In parallel with vertical lifecycle integration, AISecForge extends horizontally across organizational functions:
 
 **Executive Leadership**
 - Strategic risk assessment frameworks
@@ -6474,7 +6474,7 @@ In parallel with vertical lifecycle integration, LLMSecForge extends horizontall
 
 #### 5.3.3 Implementation Maturity Model
 
-To support progressive adoption, LLMSecForge provides a structured maturity model with clearly defined capabilities and implementation paths:
+To support progressive adoption, AISecForge provides a structured maturity model with clearly defined capabilities and implementation paths:
 
 **Level 1: Foundational Security**
 - Basic security assessment capabilities
@@ -6504,11 +6504,11 @@ This maturity model enables organizations to progress systematically toward incr
 
 ### 5.4 AI Risk Governance Integration
 
-As AI governance frameworks continue to evolve, LLMSecForge provides comprehensive integration mechanisms that position security as a fundamental pillar of effective governance.
+As AI governance frameworks continue to evolve, AISecForge provides comprehensive integration mechanisms that position security as a fundamental pillar of effective governance.
 
 #### 5.4.1 AI Governance Framework Alignment
 
-LLMSecForge aligns with major AI governance frameworks through structured mapping between security capabilities and governance requirements:
+AISecForge aligns with major AI governance frameworks through structured mapping between security capabilities and governance requirements:
 
 **NIST AI Risk Management Framework**
 - Mapping to all four NIST functions: Govern, Map, Measure, and Manage
@@ -6536,7 +6536,7 @@ LLMSecForge aligns with major AI governance frameworks through structured mappin
 
 #### 5.4.2 Security-Centric Governance Model
 
-Beyond alignment with existing frameworks, LLMSecForge introduces a security-centric governance model that establishes security as a foundational element of responsible AI:
+Beyond alignment with existing frameworks, AISecForge introduces a security-centric governance model that establishes security as a foundational element of responsible AI:
 
 **1. Security Risk Integration**
 - Unified risk assessment integrating security, ethics, and performance
@@ -6564,11 +6564,11 @@ Beyond alignment with existing frameworks, LLMSecForge introduces a security-cen
 
 ### 5.5 Regulatory Adaptation Framework
 
-The rapidly evolving AI regulatory landscape creates significant challenges for organizations deploying AI systems. LLMSecForge provides a comprehensive regulatory adaptation framework that enables organizations to effectively navigate these challenges.
+The rapidly evolving AI regulatory landscape creates significant challenges for organizations deploying AI systems. AISecForge provides a comprehensive regulatory adaptation framework that enables organizations to effectively navigate these challenges.
 
 #### 5.5.1 Regulatory Intelligence System
 
-To maintain alignment with evolving regulations, LLMSecForge implements a systematic regulatory intelligence system:
+To maintain alignment with evolving regulations, AISecForge implements a systematic regulatory intelligence system:
 
 **1. Regulatory Tracking**
 - Continuous monitoring of regulatory developments across jurisdictions
@@ -6596,7 +6596,7 @@ To maintain alignment with evolving regulations, LLMSecForge implements a system
 
 #### 5.5.2 Proactive Regulatory Engagement
 
-Beyond reactive compliance, LLMSecForge establishes mechanisms for proactive engagement with the regulatory development process:
+Beyond reactive compliance, AISecForge establishes mechanisms for proactive engagement with the regulatory development process:
 
 **1. Technical Standards Contribution**
 - Development of security testing standards for regulatory reference
@@ -6620,7 +6620,7 @@ This proactive engagement helps shape evolving regulations in directions that ef
 
 ### 5.6 Collective Security Intelligence Network
 
-The distributed nature of AI development and deployment creates both challenges and opportunities for security. LLMSecForge establishes a Collective Security Intelligence Network (CSIN) that enables collaborative security advancement across organizational boundaries.
+The distributed nature of AI development and deployment creates both challenges and opportunities for security. AISecForge establishes a Collective Security Intelligence Network (CSIN) that enables collaborative security advancement across organizational boundaries.
 
 #### 5.6.1 Network Architecture
 
@@ -6686,7 +6686,7 @@ To enable effective collaboration while protecting legitimate organizational int
 
 ### 5.7 Capability Development Ecosystem
 
-Building widespread security capability is essential for effective AI security. LLMSecForge establishes a comprehensive capability development ecosystem that addresses the growing demand for AI security expertise.
+Building widespread security capability is essential for effective AI security. AISecForge establishes a comprehensive capability development ecosystem that addresses the growing demand for AI security expertise.
 
 #### 5.7.1 Role-Based Learning Pathways
 
@@ -6746,7 +6746,7 @@ To maximize knowledge accessibility, the ecosystem leverages multiple disseminat
 
 ### 5.8 Future Security Research Agenda
 
-To maintain LLMSecForge's position at the forefront of AI security, a strategic research agenda focuses on emerging security challenges across five domains:
+To maintain AISecForge's position at the forefront of AI security, a strategic research agenda focuses on emerging security challenges across five domains:
 
 #### 5.8.1 Research Domains
 
@@ -6810,7 +6810,7 @@ The research agenda is implemented through a systematic approach that balances i
 
 ### 5.9 Emerging Security Frontiers
 
-Looking toward the future evolution of AI capabilities, LLMSecForge anticipates several emerging security frontiers that will require novel approaches:
+Looking toward the future evolution of AI capabilities, AISecForge anticipates several emerging security frontiers that will require novel approaches:
 
 #### 5.9.1 Autonomous Systems Security
 
@@ -6854,7 +6854,7 @@ With increasing interconnection between AI systems:
 
 ### 5.10 Integration Roadmap for Enterprise Adoption
 
-To facilitate organizational adoption, LLMSecForge provides a structured integration roadmap that guides implementation across multiple timeframes and organizational dimensions:
+To facilitate organizational adoption, AISecForge provides a structured integration roadmap that guides implementation across multiple timeframes and organizational dimensions:
 
 #### 5.10.1 Implementation Phases
 
@@ -6884,7 +6884,7 @@ To facilitate organizational adoption, LLMSecForge provides a structured integra
 
 #### 5.10.2 Strategic Integration Enablers
 
-To accelerate adoption, LLMSecForge provides strategic enablers addressing common implementation barriers:
+To accelerate adoption, AISecForge provides strategic enablers addressing common implementation barriers:
 
 **1. Executive Engagement Framework**
 - Executive briefing materials with customizable risk narratives
@@ -6912,11 +6912,11 @@ To accelerate adoption, LLMSecForge provides strategic enablers addressing commo
 
 ### 5.11 Conclusion: Securing the Future of AI
 
-The LLMSecForge roadmap establishes a comprehensive vision for the evolution of AI security—from today's emerging methodologies to tomorrow's integrated, adaptive security ecosystem. By providing structured frameworks for security assessment, enterprise integration, ecosystem development, and future-oriented research, LLMSecForge aims to enable the development of AI systems that are secure by design, continuously verified, and resilient against evolving threats.
+The AISecForge roadmap establishes a comprehensive vision for the evolution of AI security—from today's emerging methodologies to tomorrow's integrated, adaptive security ecosystem. By providing structured frameworks for security assessment, enterprise integration, ecosystem development, and future-oriented research, AISecForge aims to enable the development of AI systems that are secure by design, continuously verified, and resilient against evolving threats.
 
-Realizing this vision requires collective effort across the AI community—researchers advancing security methodologies, practitioners implementing robust measures, governance professionals developing effective oversight, and developers creating inherently secure systems. Through the LLMSecForge framework, these diverse stakeholders can coordinate their efforts around shared standards, methodologies, and objectives, creating a security foundation that enables responsible AI advancement.
+Realizing this vision requires collective effort across the AI community—researchers advancing security methodologies, practitioners implementing robust measures, governance professionals developing effective oversight, and developers creating inherently secure systems. Through the AISecForge framework, these diverse stakeholders can coordinate their efforts around shared standards, methodologies, and objectives, creating a security foundation that enables responsible AI advancement.
 
-As we navigate the unprecedented opportunities and challenges of advancing AI capabilities, the security decisions made today will shape the trustworthiness and reliability of AI systems for decades to come. The LLMSecForge roadmap provides not just a technical framework, but a strategic vision for ensuring that security evolves in lockstep with capability—creating a future where powerful AI systems can safely deliver on their transformative potential while maintaining human trust and alignment with societal values.
+As we navigate the unprecedented opportunities and challenges of advancing AI capabilities, the security decisions made today will shape the trustworthiness and reliability of AI systems for decades to come. The AISecForge roadmap provides not just a technical framework, but a strategic vision for ensuring that security evolves in lockstep with capability—creating a future where powerful AI systems can safely deliver on their transformative potential while maintaining human trust and alignment with societal values.
 
 ## References
 
@@ -6958,7 +6958,7 @@ As we navigate the unprecedented opportunities and challenges of advancing AI ca
 
 [19] Taylor, S., et al., "Multimodal Security Evaluation Framework," Conference on Computer Vision and Pattern Recognition, 2023.
 
-[20] LLMSecForge Consortium, "Comprehensive Security Assessment of Commercial LLMs," Technical Report, 2023.
+[20] AISecForge Consortium, "Comprehensive Security Assessment of Commercial LLMs," Technical Report, 2023.
 
 [21] NIST. "Artificial Intelligence Risk Management Framework (AI RMF 1.0)." National Institute of Standards and Technology, 2023.
 
