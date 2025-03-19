@@ -1,5 +1,8 @@
 # LLMSecForge: A Comprehensive Framework for AI Security, Compliance and Competitive Advantage
 
+![License](https://img.shields.io/badge/license-CC-By-NC-SA--4.0-00b5a1.svg)
+![License](https://img.shields.io/badge/license-AGPL--3.0-00b5a1.svg)
+
 ## Abstract
 
 The rapid proliferation of large language models (LLMs) across critical enterprise functions has created an unprecedented security challenge that transcends traditional cybersecurity paradigms. Organizations deploying these systems face not only technical vulnerabilities but also significant regulatory, financial, and reputational risks that directly threaten business continuity. This paper introduces LLMSecForge, a comprehensive security framework specifically engineered to address the unique threat landscape of frontier AI systems. Unlike existing approaches that treat AI security as an afterthought, LLMSecForge establishes a systematic methodology for identifying, classifying, and mitigating vulnerabilities across the entire AI deployment lifecycle. Our framework integrates security assessment, benchmarking, and risk management into a cohesive governance structure that satisfies emerging regulatory requirements while providing strategic competitive advantages. Through rigorous comparative analysis across multiple commercial LLMs, we demonstrate how organizations implementing the LLMSecForge framework achieve measurably improved security postures, regulatory compliance readiness, and enhanced trust with stakeholders. As AI systems become further embedded in mission-critical infrastructure, the adoption of structured security frameworks like LLMSecForge transitions from a competitive advantage to an existential business necessity.
