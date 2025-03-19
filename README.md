@@ -18,9 +18,9 @@ This research, **LLMSecForge**, is provided exclusively for **non-commercial use
 LLMSecForge has been meticulously structured to balance **regulatory alignment, security robustness, and ethical deployment of LLMs** without introducing centralization risks or proprietary capture. This ensures that organizations navigating the evolving AI security landscape can **deploy adaptive risk mitigation strategies** while upholding transparency and sector-wide resilience.  
 
 #### **Governance & Use Restrictions**  
-- **Attribution Requirement:** Any use of LLMSecForge in research, implementation, or derivative security methodologies must credit the original work.  
-- **Non-Commercial Clause:** The framework cannot be incorporated into proprietary software, monetized security platforms, or closed-source AI risk assessment tools.  
-- **ShareAlike Enforcement:** Any modifications, refinements, or enhancements must be redistributed under **CC BY-NC-SA 4.0**, preventing knowledge hoarding or restricted-access implementations.  
+**Attribution Requirement:** Any use of LLMSecForge in research, implementation, or derivative security methodologies must credit the original work.  
+**Non-Commercial Clause:** The framework cannot be incorporated into proprietary software, monetized security platforms, or closed-source AI risk assessment tools.  
+**ShareAlike Enforcement:** Any modifications, refinements, or enhancements must be redistributed under **CC BY-NC-SA 4.0**, preventing knowledge hoarding or restricted-access implementations.  
 
 #### **Strategic Intent & Industry Application**  
 As AI security becomes an existential priority for **frontier AI enterprises, regulatory bodies, and global cybersecurity coalitions**, LLMSecForge serves as a **foundation for collaborative threat modeling, vulnerability standardization, and governance-ready AI security architectures**. The **CC BY-NC-SA 4.0 license enforces ethical safeguards**, ensuring that adversarial security research remains an **open, evolving discipline** that is **immune to corporate centralization and misuse**.  
