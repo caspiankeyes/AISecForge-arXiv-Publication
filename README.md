@@ -5,7 +5,6 @@
 ![LICENSE](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-red.svg)
 ![LICENSE](https://img.shields.io/badge/license-AGPL--3.0-00b5a1.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-</div>
 
 ### **License Statement: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
 
@@ -27,6 +26,12 @@ LLMSecForge has been meticulously structured to balance **regulatory alignment, 
 As AI security becomes an existential priority for **frontier AI enterprises, regulatory bodies, and global cybersecurity coalitions**, LLMSecForge serves as a **foundation for collaborative threat modeling, vulnerability standardization, and governance-ready AI security architectures**. The **CC BY-NC-SA 4.0 license enforces ethical safeguards**, ensuring that adversarial security research remains an **open, evolving discipline** that is **immune to corporate centralization and misuse**.  
 
 For full license details, visit: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+</div>
+
+
+
+
+
 
 ## Abstract
 
