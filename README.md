@@ -133,7 +133,7 @@ Vulnerabilities enabling extraction of sensitive information from models:
 
 *Each information extraction vulnerability is mapped to specific data protection regulations and privacy frameworks.*
 
-**Rest of publication still in production**
+**Due to proprietary licensing and Non Disclosure Agreements, the rest of the document and data can not yet be disclosed. Please contact us for more information**
 
 ## References
 
