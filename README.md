@@ -2,6 +2,10 @@
 
 <div align="center">
 
+
+
+**Due to proprietary licensing and Non Disclosure Agreements, the complete document and data can not yet be publicly disclosed. Please contact us for more information.**
+
 ![LICENSE](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-red.svg)
 ![LICENSE](https://img.shields.io/badge/license-AGPL--3.0-00b5a1.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
@@ -139,7 +143,7 @@ Vulnerabilities enabling extraction of sensitive information from models:
 
 
 
-**Due to proprietary licensing and Non Disclosure Agreements, the rest of the document and data can not yet be publicly disclosed. Please contact us for more information.**
+**Due to proprietary licensing and Non Disclosure Agreements, the complete document and data can not yet be publicly disclosed. Please contact us for more information.**
 
 
 </div>
