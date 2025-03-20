@@ -143,7 +143,7 @@ Vulnerabilities enabling extraction of sensitive information from models:
 
 
 
-**Due to proprietary licensing and Non Disclosure Agreements, the complete document and data can not yet be publicly disclosed. Please contact us for more information.**
+**Due to proprietary licensing and Non Disclosure Agreements, the complete publication and data can not yet be publicly disclosed. Please contact us for more information.**
 
 
 </div>
