@@ -110,16 +110,10 @@ Vulnerabilities enabling extraction of sensitive information from models:
 
 *Each information extraction vulnerability is mapped to specific data protection regulations and privacy frameworks.*
 
-
-
-<div align="center">
-
-
-
 > **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies and red team toolkits are only available via private governance channels.
 
 
-</div>
+
 
 
 
