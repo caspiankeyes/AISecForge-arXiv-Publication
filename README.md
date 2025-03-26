@@ -3,39 +3,13 @@
 <div align="center">
 
 
-
-> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies and red team toolkits are only available via private governance channels.
-
 ![LICENSE](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-red.svg)
 ![LICENSE](https://img.shields.io/badge/license-AGPL--3.0-00b5a1.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 ### **License Statement: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
 
-© [2025] [Caspian Keyes, Jason Tang]  
-This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.  
-
-#### **Legal and Strategic Framework**  
-This research, **AISecForge**, is provided exclusively for **non-commercial use**, ensuring that its insights, methodologies, and security architectures remain within the open research community and are not exploited for proprietary gain. Any entity utilizing this framework must **attribute the original authors**, preserve all derivative works under the same licensing terms, and ensure that modifications or extensions remain freely accessible to the broader security and AI governance ecosystem.  
-
-#### **Frontier AI Security Compliance & Competitive Integrity**  
-AISecForge has been meticulously structured to balance **regulatory alignment, security robustness, and ethical deployment of LLMs** without introducing centralization risks or proprietary capture. This ensures that organizations navigating the evolving AI security landscape can **deploy adaptive risk mitigation strategies** while upholding transparency and sector-wide resilience.  
-
-#### **Governance & Use Restrictions**  
-**Attribution Requirement:** Any use of AISecForge in research, implementation, or derivative security methodologies must credit the original work.  
-**Non-Commercial Clause:** The framework cannot be incorporated into proprietary software, monetized security platforms, or closed-source AI risk assessment tools.  
-**ShareAlike Enforcement:** Any modifications, refinements, or enhancements must be redistributed under **CC BY-NC-SA 4.0**, preventing knowledge hoarding or restricted-access implementations.  
-
-#### **Strategic Intent & Industry Application**  
-As AI security becomes an existential priority for **frontier AI enterprises, regulatory bodies, and global cybersecurity coalitions**, AISecForge serves as a **foundation for collaborative threat modeling, vulnerability standardization, and governance-ready AI security architectures**. The **CC BY-NC-SA 4.0 license enforces ethical safeguards**, ensuring that adversarial security research remains an **open, evolving discipline** that is **immune to centralization and misuse**.  
-
-For full license details, visit: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-</div>
-
-
-
-
-
+> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies and red team toolkits are only available via private governance channels.
 
 ## Abstract
 
