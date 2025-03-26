@@ -4,7 +4,7 @@
 
 
 
-**Due to Echelon Labs proprietary licensing and Non Disclosure Agreements, the complete document and data can not yet be publicly disclosed. Please contact us for more information.**
+> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies and red team toolkits are only available via private governance channels.
 
 ![LICENSE](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-red.svg)
 ![LICENSE](https://img.shields.io/badge/license-AGPL--3.0-00b5a1.svg)
