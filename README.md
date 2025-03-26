@@ -7,8 +7,6 @@
 ![LICENSE](https://img.shields.io/badge/license-AGPL--3.0-00b5a1.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
-### **License Statement: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
-
 > **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies and red team toolkits are only available via private governance channels.
 
 ## Abstract
