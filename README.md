@@ -116,7 +116,7 @@ Vulnerabilities enabling extraction of sensitive information from models:
 
 
 
-**Due to Echelon Labs proprietary licensing and Non Disclosure Agreements, the complete publication and data can not yet be publicly disclosed. Please contact us for more information.**
+> **Note:** Due to proprietary collaboration protocols and active NDA agreements with institutional partners and Echelon Labs, full vector methodologies and red team toolkits are only available via private governance channels.
 
 
 </div>
