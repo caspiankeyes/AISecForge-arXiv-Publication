@@ -1,4 +1,4 @@
-# AI Security Forge [AISecForge]: A Comprehensive Framework for AI Security, Compliance and Competitive Advantage
+# [AISecForge] AI Security Forge: A Comprehensive Framework for AI Security, Compliance and Competitive Advantage
 
 <div align="center">
 
